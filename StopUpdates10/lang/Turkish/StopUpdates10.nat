@@ -1,0 +1,480 @@
+[@Info]
+Description=TLocalizer Veri Dosyasý
+Version=1.0.7
+Copyright=Telif Hakký © 2018 Greatis Yazýlýmý
+[StopUpdates10.@Info]
+Language=Turkish
+Copyright=Telif Hakký © 2018 Greatis Yazýlýmý
+Info=Düzenlendi by SALiH DRD
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Koruma Durumu
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Yeni Sürümü Kontrol Edin
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Yardým/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Günlüðü Kontrol Et...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Telif hakký (c) Greatis yazýlým.  Ücretsiz  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Lütfen, bekleyin...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Beklemeyi Durdur...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=Baþka Benim Uygulamalar:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Ýndir!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Windows Güncellemeleri Aç
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Windows Güncellemeleri Durdur!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Yenile
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Durum:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Bulunamadý
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Baþarýsýzlýk! Yazma Hatasý
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Baþarýsýzlýk! Çýkarýlmasý Hatasý
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Açýlamýyor
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Anahtar Silme Hatasý
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Çalýþtýrma Giriþimi
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Windows Güncellemesi Engellenmedi.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Windows Güncellemesi Kýsmen Engellendi.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Windows Güncellemesi Engellendi!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Windows önyükleme sürenizi ve PC'nizi yavaþlatan programlarý bulmak için için ücretsiz araç.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Microsoft Edge tarayýcýsýný sýfýrlamak için küçük bir program. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=En Ýyi Kötü Amaçlý Yazýlým Katili!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Web cryptocurrency madencilere karþý PC'nizi korur  (ÜCRETSÝZ)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=WiNDOWS 10 GÜNCELLEMELERi DURDUR
+[StopUpdates10.frmScann.constVersion]
+Caption=Sürüm
+[StopUpdates10.frmScann.constExecuted]
+Caption=Gerçekleþtirilen:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Ýþlem engellenmediðinden
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Lütfen, bekleyin...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Güncelleme Hizmeti devre dýþý deðil!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Güncelleme Hizmeti þimdi çalýþýyor!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=Peki, bir sonraki hamle nedir?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=PC'nizde gizli malware için tarama
+Hint=UnHackMe yazýlýmýmýzý kullanarak ücretsiz tarama
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Baþarý! Windows Güncelleme Engellendi!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=Yani, ne yapacaðýz?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Baþlangýç programlarý üzerinde kontrol altýna almak
+Hint=Ücretsiz BootRacer yazýlýmýmýzý kullanýn
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Teþekkürler!
+Hint=Fikriniz bizim için çok önemlidir
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Þimdi Ýngilizce arayüzü almak için programý yeniden baþlatmanýz gerekiyor.
+[StopUpdates10.frmScann.File1]
+Caption=DOSYA
+[StopUpdates10.frmScann.Exit1]
+Caption=Çýkýþ
+[StopUpdates10.frmScann.Tools1]
+Caption=ARAÇLAR
+[StopUpdates10.frmScann.Refresh1]
+Caption=Yenileme Durumu
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Windows'u Kapat
+[StopUpdates10.frmScann.Help1]
+Caption=YARDIM
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Ana Sayfayý Ziyaret Edin/FAQ...
+[StopUpdates10.frmScann.Language1]
+Caption=Dil
+[StopUpdates10.frmScann.Translate1]
+Caption=Çeviri...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Yeni Sürümü Kontrol Edin...
+[StopUpdates10.frmScann.Settings1]
+Caption=Ayarlar...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Ayarlar
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=SADECE Güç Kullanýcýlarý Ýçin!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Windows Yükseltmesini Devre Dýþý Býrak
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Windows Güncellemesini Devre Dýþý Býrak
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Windows Güncelleþtirme Hizmetini Devre Dýþý Býrak
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Ýþlemleri Devre Dýþý Býrak:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=TAMAM
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Ýptal
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Bunu kendi riskinizle deðiþtirin! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Kendini Güncelleme
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Program Baþlangýçta Yeni Sürüm Kontrol
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Kapat
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Güncelleme Korumasýný Devre Dýþý Býrak
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Güncelleme Korumasýný Etkinleþtir
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=GÜNCELLEMELER KORUMA DEVRE DIÞI!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=GÜNCELLEMELER KORUMA AKTiF!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Güncellemeler Koruma, Windows update hizmeti durumunu yoklar.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=Windows Güncelleme hizmeti baþlatýlacaksa, Koruma bunu devre dýþý býrakýr.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=Güncellemeler Koruma bir hizmet olarak arka planda çalýþýr. Windows'a giriþ yapmasanýz bile sizi korur.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Windows'u Yeniden Baþlat
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Güncellemeler Koruma Etkin
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Devre Dýþý Hizmetler:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=GÜNCELLEMELER KORUMA ARKA PLANDA OTOMATiK OLARAK KORUR. 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=Windows Güncelleme Engelleme Korunmuyor
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Geri Al
+Hint=Yapýlan Deðiþiklikleri Geri Al
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Özellik Öner
+
+;255
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Size tavsiye:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Güncellemeleri Duraklat...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Güncellemelere Devam Et
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Seçenekler...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=Daha fazla bilgi
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Güncellemeler kadar duraklatýldý
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=Güncellemeleri yüklemeyi duraklatabilirsiniz
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Ýndir
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Windows Defender Ýmzalarýný Güncelle
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Güncellemeleri Duraklat
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Güncellemeleri Kadar Duraklat:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Duraklat Özellikler Güncellemeler (Büyük Güncellemeler Yýlda 2 Kez)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Ay Güncellemelerini Duraklat (Kümülatif Kalite Güncellemeleri )
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=TAMAM
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=Windows Defender Ýmzalarýný Güncelleme
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Ýptal
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Günlüðü Kontrol Et
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Kapat
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Bir özellik Öner
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=EOS Bildirimleri devre dýþý býrak
+Hint=Hizmetin sonunu ve Destek ekranlarýnýn sonunu engelle
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=EOS Bildirimleri etkinleþtirin
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=Daha fazla bilgi
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=Devre dýþý GWX
+Hint=Windows 10 bildirim ve pop-up alýn devre dýþý býrak
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=GWX devre dýþý
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=GWX (Get Widows 10) bulunamadý.
+
+;300
+[StopUpdates10.frmScann.lblDonate]
+
+[StopUpdates10.frmScann.btDonate]
+Caption=Premium Baðýþ
+[StopUpdates10.frmScann.pnlRegister]
+[StopUpdates10.frmScann.lblRegistered]
+[StopUpdates10.frmScann.btRegister]
+Caption=Kayýtol
+[StopUpdates10.frmScann.btRegisteranother]
+Hint=Baþka bir kiþiye Kayýt...
+
+[StopUpdates10.frmScann.pnlReg]
+[StopUpdates10.frmScann.GreatisButton1]
+Caption=Kapat
+[StopUpdates10.frmScann.btCheckRegCode]
+Caption=Kayýtol
+[StopUpdates10.frmScann.gpAffi]
+[StopUpdates10.frmScann.lblYourLicenseKey]
+Caption=Lisans Anahtarýnýz:
+[StopUpdates10.frmScann.lblStronglyrecommendcopypaste]
+Caption=Kodunuzu kayýt mesajýndan kopyalayýp yapýþtýrmanýzý þiddetle tavsiye ederiz!
+[StopUpdates10.frmScann.gbPasteSerial]
+Caption=Panodan yapýþtýr
+[StopUpdates10.frmScann.edtKey2]
+[StopUpdates10.frmScann.edtRegCode]
+[StopUpdates10.frmScann.edtLicense]
+
+[StopUpdates10.frmScann.constServicedoesnotexist]
+Caption=Hizmet mevcut deðil.
+[StopUpdates10.frmScann.constRecommendyou]
+Caption=Sana tavsiye
+[StopUpdates10.frmScann.constComputers]
+Caption=Bilgisayarlar
+[StopUpdates10.frmScann.constValiduntil]
+Caption=Kadar geçerli:
+[StopUpdates10.frmScann.constRegisteredto]
+Caption=Kayýtlý:
+[StopUpdates10.frmScann.constInvalidregistrationkeyorregistrationinformation]
+Caption=Geçersiz kayýt anahtarý veya kayýt bilgileri!
+[StopUpdates10.frmScann.constDoyouwanttocompletelycloseStopUpdates10]
+Caption=Stopupdates10'i tamamen kapatmak veya sistem tepsisine en aza indirmek istiyor musunuz?
+[StopUpdates10.frmScann.constAutoStart]
+Caption=Otomatik Baþlat
+[StopUpdates10.frmScann.constManualStart]
+Caption=Manuel Baþlangýç
+[StopUpdates10.frmScann.constDisabled]
+Caption=Devre dýþý
+[StopUpdates10.frmScann.constProtected]
+Caption=Kayýt Defteri Korumalý
+[StopUpdates10.frmScann.constUnprotected]
+Caption=Kayýt Defteri Korumasýz
+
+[StopUpdates10.frmSettings.tabProc]
+Caption=Ýþlemleri Devre Dýþý Býrak
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Süreçleri Devre Dýþý Býrak:
+[StopUpdates10.frmSettings.tabServ]
+Caption=Hizmetleri Devre Dýþý Býrak
+[StopUpdates10.frmSettings.lblRecommendedServ]
+Caption=Önerilen Hizmetleri Devre Dýþý Býrak:
+
+[StopUpdates10.frmSettings.lblDisableAdditionalServices]
+Caption=Ek Hizmetleri Devre Dýþý Býrak:
+[StopUpdates10.frmSettings.lblAtyourrisk]
+Caption=Kendi sorumluluðunuzdadýr!
+
+[StopUpdates10.frmSettings.lvlCustomServices]
+
+[StopUpdates10.frmSettings.cbDoubleProtectServices]
+Caption=Çift Koruma: Kayýt Defteri Ýzinleri ile koruyun + Güncellemeler Koruma tarafýndan koruyun
+
+[StopUpdates10.frmSettings.btEdit]
+Caption=Düzenle
+
+[StopUpdates10.frmSettings.lblServiceKeyName]
+Caption=Servis Anahtar Adý:
+[StopUpdates10.frmSettings.edtServName]
+
+[StopUpdates10.frmSettings.btSaveServName]
+Caption=TAMAM
+
+[StopUpdates10.frmSettings.btCancelServName]
+Caption=Ýptal
+
+[StopUpdates10.frmSettings.tabPremium]
+Caption=Premium
+
+[StopUpdates10.frmSettings.lblPolling]
+Caption=Güncelleþtirme Durumunu Denetleme için yoklama aralýðý (dak):
+
+[StopUpdates10.frmSettings.lblUpdateblocked]
+Caption=- Windows Güncellemesi Engellendi
+
+[StopUpdates10.frmSettings.lblUpdateisnotblocked]
+Caption=- Windows Güncellemesi Engellenmedi
+
+[StopUpdates10.frmSettings.cbTrayIcon]
+Caption=Sistem tepsisinde Windows Güncelleþtirme durum simgesi
+
+[StopUpdates10.frmSettings.edtPollingInterval]
+
+[StopUpdates10.frmSettings.cbWinStartup]
+Caption=Windows Baþlangýcýnda Çalýþtýr
+
+[StopUpdates10.frmSettings.btApply]
+Caption=Uygula
+
+[StopUpdates10.frmSettings.constServiceKeyName]
+Caption=Servis Anahtarý Adý
+[StopUpdates10.frmSettings.constStatus]
+Caption=Durum
+
+[StopUpdates10.frmAsk]
+[StopUpdates10.frmAsk.lblQuestion]
+[StopUpdates10.frmAsk.btDisableEOS]
+Caption=Uygulamayý Kapat
+[StopUpdates10.frmAsk.GreatisButton1]
+Caption=Simge Durumunda Küçült
+[StopUpdates10.frmAsk.GreatisButton2]
+Caption=Ýptal

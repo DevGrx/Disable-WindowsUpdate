@@ -1,0 +1,50 @@
+Welcome to the StopUpdats10 Localization kit.
+
+Localization Instructions.
+
+1. Open any text editor that you like (notepad.exE).
+If your nature language requires double-byte char, use the editor with DBCS supporting.
+2. Open StopUpdates10.nat.
+For example: notepad.
+3. Translate only text after equal sign.
+
+Example:
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Protection Status
+
+You need translate onlly: "Protection Status".
+
+4. Create a directory in the "lang" subfolder with your language name.
+For examaple: Polish.
+
+5. Save  StopUpdates10.nat to your subfolder.
+The path will be like this:
+"C:\Program Files (x86)\StopUpdates10\lang\Polish\StopUpdates10.nat" 
+Save your file as ANSI text (not Unicode or UTF-8)!
+
+6. Check your translation:
+ - Open StopUpdates10
+ - Choose in main menu "Help", "Language", "Polish".
+ 
+ 
+ 
+If you need to modify font or text size, use the font modifiers:
+Font.Name=Trebuchet MS
+Font.Size=10
+Font.CharSet=1
+
+Add your font modifier after [ID]:
+[StopUpdates10.frmScann.lblProtectionStatus]
+Font.Name=Gothic
+Caption=Protection Status
+
+ 
+or
+[StopUpdates10.frmScann.lblProtectionStatus]
+Font.Size=12
+Caption=Protection Status
+
+
+Send your translation to us:
+https://greatis.net/esupport/submit_ticket
+Or use email: support@greatis.com

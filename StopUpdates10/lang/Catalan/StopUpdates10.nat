@@ -1,0 +1,358 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=Catalan
+Copyright=Copyright © 2018 Greatis Software
+Info=Creat per Joan Montané
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Estat de protecció
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Comprova si hi ha una versió nova
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Ajuda/PMF
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Comprova el registre...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Freeware  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Espereu...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=S'està esperant l'aturada...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=Altres aplicacions:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Baixa!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Restaura les actualitzacions
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Atura les actualitzacions!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Actualitza
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Estat:
+[StopUpdates10.frmScann.constNotfound]
+Caption=No s'ha trobat
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Fallada! S'ha produïut un error d'escriptura
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Fallada! S'ha produït un erro en la supressió
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=No es pot obrir
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=S'ha produït un error en suprimir la clau
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Intenta executar
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Les actualitzacions del Windows no s'han blocat.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Les actualitzacions del Windows s'han blocat parcialment.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Les actualitzacions del Windows s'han blocat!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Eina gratuïta per a monitorar el temps d'engegada del Windows i l'alentiment del vostre PC.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Un petit programa per a restablir el navegador Microsoft Edge.
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=El millor eliminador de malware!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Protegeix el vostre PC contra minadors web de criptodivises (GRATUÏT)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Atura les actualitzacions del Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Versió
+[StopUpdates10.frmScann.constExecuted]
+Caption=Executat:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=El procés no s'ha blocat
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Espereu...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=El servei d'actualitzacions és actiu!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=El servei d'actgualitzacions s'està executant!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=I ara, quin és el pas següent?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Escanegeu el PC contra malware ocult
+Hint=Escaneig gratuït fent servir el programa UnHackMe	
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Fet! S'han blocat les actualitzacions del Windows!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=I ara, quin és el pas següent?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Controleu els programes de l'inici
+Hint=Useu el nostre programari gratuït BootRacer
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Digueu gràcies!
+Hint=La vostra opinió ens importa molt
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Ara cal que reinicieu el programa per a tenir la interfície en anglès.
+[StopUpdates10.frmScann.File1]
+Caption=Fitxer
+[StopUpdates10.frmScann.Exit1]
+Caption=Surt
+[StopUpdates10.frmScann.Tools1]
+Caption=Eines
+[StopUpdates10.frmScann.Refresh1]
+Caption=Actualitza l'estat
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Apaga el Windows
+[StopUpdates10.frmScann.Help1]
+Caption=Ajuda
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Visita el lloc web/PMF...
+[StopUpdates10.frmScann.Language1]
+Caption=Llengua
+[StopUpdates10.frmScann.Translate1]
+Caption=Tradueix...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Comprova si hi ha una versió nova...
+[StopUpdates10.frmScann.Settings1]
+Caption=Configuració...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Configuració
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=NOMÉS per a usuaris avançats!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Desactiva l'actualització de versió del Windows
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Desativa les actualitzacions del Windows
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Desactiva el servei d'actualitzacions del Windows
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Desactiva els procesos:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=D'acord
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Cancel·la
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Canvieu això sota la vostra responsabilitat! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Actualització automàtica
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Comprova si hi ha una versió nova en iniciar el programa
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Tanca
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Desactiva el guardià d'actualitzacions
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Activa el guardià d'actualitzacions
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=El guardià d'actualitzacions no és actiu!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=El guardià d'actualitzacions és actiu!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=El guardià d'actualitzacions controla l'estat del servie d'actualitzacions del Windows.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=Si el servei d'actualitzacions del Windows s'activa, el guardià el desactiva.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=El guardià d'actualitzacions funciona en segon pla com a servei. Us protegeix, fins i tot si no teniu sessió iniciada al Windows.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Reinicia el Windows
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Activa el guardià d'actualitzacions
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Desactiva els serveis:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=El guardià d'actualitzacions us protegeix en segon pla. 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=El bloqueig d'actualitzacions del Windows no és protegit
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Desfés
+Hint=Desfà els canvis fets
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Suggeriu una característica
+
+;255
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Us recomanem:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Pausa les actualitzacions...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Reprén les actualitzacions
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Opcions...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=Més informació
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Actualitzacions pausades fins:
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=Podeu pausar la instal·lació d'actualitzacions
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Baixa
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Actualitza les signatures del Windows Defender
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Pausa les actualitzacions
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Pausa les actualitzacions fins:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Pausa les actualitzacions de característiques (bianuals)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Pausa les actualitzacions de qualitat acumulatives (mensuals)
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=D'acord
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=S'estan actualitzant les signatures del Windows Defender
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Cancel·la
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Check Log
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Tanca
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Suggereix una característica
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=Desactiva les notificacions EOS
+Hint=Bloca les pantalles de fi de servei o de suport
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=Activa les notificacions EOS
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=Més informació
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=Desactiva GWX
+Hint=Desactiva les notificacions d'obtenir Windows 10 i les finestres emergents
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=GWX és inactiu
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=No s'ha trobat GWX (Get Widows 10).

@@ -1,0 +1,484 @@
+[@Info]
+Description=TLocalizer Data File
+Version=2.5.56
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=Ελληνικά
+Copyright=Copyright © 2018 Greatis Software
+Info=Created by geogeo.gr
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Κατάσταση προστασίας
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Έλεγχος ενημερώσεων
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Βοήθεια/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Έλεγχος αρχείου καταγραφής...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Δωρεάν λογισμικό 
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Παρακαλώ περιμένετε...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Διακοπή αναμονής...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=’λλες εφαρμογές μας:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Λήψη!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Επαναφορά Windows Update
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Διακοπή Windows Update!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Ανανέωση
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Κατάσταση:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Δεν βρέθηκε
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Αποτυχία! Σφάλμα στην εγγραφή
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Αποτυχία! Σφάλμα στην κατάργηση
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Δεν ήταν δυνατό το άνοιγμα
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Σφάλμα στη διαγραφή κλειδιού
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Προσπάθεια εκτέλεσης
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Το Windows Update είναι ενεργό.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Το Windows Update είναι εν μέρει ανενεργό.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Το Windows Update είναι ανενεργό!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Δωρεάν εργαλείο για παρακολούθηση του χρόνου εκκίνησης των Windows και επιβράδυνσης του υπολογιστή σας.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Ένα μικρό πρόγραμμα για την επαναφορά του προγράμματος περιήγησης Microsoft Edge. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=Ο καλύτερος εξολοθρευτής κακόβουλων προγραμμάτων!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Προστατεύει τον υπολογιστή σας από άτομα που κάνουν εξόρυξη κρυπτονομίσματος  (ΔΩΡΕΑΝ)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Διακοπή ενημερώσεων Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Έκδοση
+[StopUpdates10.frmScann.constExecuted]
+Caption=Εκτέλεση:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Η διεργασία δεν είναι απενεργοποιημένη
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Παρακαλώ περιμένετε...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Η υπηρεσία ενημέρωσης δεν είναι απενεργοποιημένη!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Η υπηρεσία ενημέρωσης τώρα είναι σε λειτουργία!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=Λοιπόν, ποια είναι η επόμενη κίνηση;
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Σάρωση για κρυφό κακόβουλο λογισμικό στο PC σας
+Hint=Δωρεάν σάρωση με χρήση του λογισμικού UnHackMe
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Επιτυχία! Οι ενημερώσεις των Windows έχουν σταματήσει!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=Λοιπόν, ποια είναι η επόμενη κίνηση;
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Πάρτε τον έλεγχο των προγραμμάτων εκκίνησης
+Hint=Χρησιμοποιήστε το δωρεάν λογισμικό μας BootRacer
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Απλά. πείτε ευχαριστώ!
+Hint=Η γνώμη σας είναι πολύ σημαντική για εμάς
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Τώρα πρέπει να επανεκκινήσετε το πρόγραμμα για να έχετε αγγλικό περιβάλλον.
+[StopUpdates10.frmScann.File1]
+Caption=Αρχείο
+[StopUpdates10.frmScann.Exit1]
+Caption=Έξοδος
+[StopUpdates10.frmScann.Tools1]
+Caption=Εργαλεία
+[StopUpdates10.frmScann.Refresh1]
+Caption=Ανανέωση κατάστασης
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Τερματισμός των Windows
+[StopUpdates10.frmScann.Help1]
+Caption=Βοήθεια
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Ιστοσελίδα / Συχνές ερωτήσεις...
+[StopUpdates10.frmScann.Language1]
+Caption=Γλώσσα / Language
+[StopUpdates10.frmScann.Translate1]
+Caption=Μετάφραση...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Έλεγχος ενημερώσεων...
+[StopUpdates10.frmScann.Settings1]
+Caption=Ρυθμίσεις...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Ρυθμίσεις
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=ΜΟΝΟ για έμπειρους χρήστες!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Απενεργοποίηση αναβάθμισης των Windows
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Απενεργοποίηση ενημέρωσης των Windows
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Απενεργοποίηση της υπηρεσίας Windows Update
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Απενεργοποίηση διεργασιών:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=Εντάξει
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=’κυρο
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Αλλάξτε αυτές τις ρυθμίσεις με δική σας ευθύνη! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Έλεγχος ενημερώσεων
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Έλεγχος για νέα έκδοση στην έναρξη του προγράμματος
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Κλείσιμο
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Απενεργ/ση προστασίας ενημερώσεων
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Ενεργοποίηση προστασίας ενημερώσεων
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=Η προστασία ενημερώσεων είναι ανενεργή!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=Η προστασία ενημερώσεων είναι ενεργή!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Η προστασία ενημερώσεων ελέγχει την κατάσταση της υπηρεσίας Windows Update. 
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=Εάν ξεκινήσει η υπηρεσία ενημέρωσης των Windows, η προστασία θα την απενεργοποιήσει. 
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=Η προστασία ενημερώσεων λειτουργεί στο παρασκήνιο ως υπηρεσία. Σας προστατεύει, ακόμα κι αν δεν είστε συνδεδεμένοι στα Windows.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Επανεκκίνηση των Windows
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Η προστασία ενημερώσεων είναι ενεργή
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Απενεργοποίηση υπηρεσιών:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=Η προστασία ενημερώσεων σας προστατεύει αυτόματα στο παρασκήνιο. 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=Οι ενημερώσεις των Windows δεν προστατεύονται
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Αναίρεση
+Hint=Αναίρεση των τροποποιήσεων
+
+;250
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Σας προτείνουμε:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Παύση ενημερώσεων...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Συνέχιση ενημερώσεων
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Επιλογές...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=Περισσότερες πληροφορίες
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Παύση ενημερώσεων μέχρι
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=Μπορείτε να διακόψετε την εγκατάσταση ενημερώσεων
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Λήψη
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Ενημέρωση υπογραφών του Windows Defender
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Παύση ενημερώσεων
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Παύση ενημερώσεων μέχρι:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Παύση ενημερώσεων δυνατοτήτων (σημαντικές ενημερ. 2/έτος)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Παύση μηνιαίων ενημερώσεων (Συγκεντρ. ενημερ. ποιότητας)
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=Εντάξει
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=Ενημέρωση υπογραφών του Windows Defender
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Ματαίωση
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Έλεγχος αρχείου καταγραφής
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Κλείσιμο
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Προτείνετε μια λειτουργία
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=Απενεργοποίηση ειδοποιήσεων EOS
+Hint=Φραγή οθόνης λήξης υπηρεσίας και λήξης υποστήριξης
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=Ενεργοποίηση ειδοποιήσεων EOS
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=Περισσότερες πληροφορίες
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=Απενεργοποίηση GWX
+Hint=Απενεργοποίηση ειδοποιήσεων λήψης των Windows 10 και αναδυόμενων παραθύρων
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=Το GWX είναι απενεργοποιημένο
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=Το GWX (Λήψη των Windows 10) δεν βρέθηκε.
+
+;300
+[StopUpdates10.frmScann.lblDonate]
+
+[StopUpdates10.frmScann.btDonate]
+Caption=Δωρεά για Premium
+[StopUpdates10.frmScann.pnlRegister]
+[StopUpdates10.frmScann.lblRegistered]
+[StopUpdates10.frmScann.btRegister]
+Caption=Καταχώρηση
+[StopUpdates10.frmScann.btRegisteranother]
+Hint=Καταχώρηση σε άλλο πρόσωπο...
+
+[StopUpdates10.frmScann.pnlReg]
+[StopUpdates10.frmScann.GreatisButton1]
+Caption=Κλείσιμο
+[StopUpdates10.frmScann.btCheckRegCode]
+Caption=Καταχώρηση
+[StopUpdates10.frmScann.gpAffi]
+[StopUpdates10.frmScann.lblYourLicenseKey]
+Caption=Το κλειδί της άδειάς σας:
+[StopUpdates10.frmScann.lblStronglyrecommendcopypaste]
+Caption=Παρακαλούμε αντιγράψτε και επικολλήστε τον κώδικά σας από το μήνυμα εγγραφής!
+[StopUpdates10.frmScann.gbPasteSerial]
+Caption=Επικόλληση από το πρόχειρο
+[StopUpdates10.frmScann.edtKey2]
+[StopUpdates10.frmScann.edtRegCode]
+[StopUpdates10.frmScann.edtLicense]
+
+[StopUpdates10.frmScann.constServicedoesnotexist]
+Caption=Η υπηρεσία δεν υπάρχει.
+[StopUpdates10.frmScann.constRecommendyou]
+Caption=Σας συνιστούμε
+[StopUpdates10.frmScann.constComputers]
+Caption=Υπολογιστές
+[StopUpdates10.frmScann.constValiduntil]
+Caption=Ισχύει μέχρι:
+[StopUpdates10.frmScann.constRegisteredto]
+Caption=Καταχωρήθηκε σε:
+[StopUpdates10.frmScann.constInvalidregistrationkeyorregistrationinformation]
+Caption=Δεν είναι έγκυρο το κλειδί ή οι πληροφορίες εγγραφής!
+[StopUpdates10.frmScann.constDoyouwanttocompletelycloseStopUpdates10]
+Caption=Θέλετε να κλείσετε το StopUpdates10 ή να το ελαχιστοποιήσετε στην περιοχή ειδοποιήσεων;
+[StopUpdates10.frmScann.constAutoStart]
+Caption=Αυτόμ. εκκίνηση
+[StopUpdates10.frmScann.constManualStart]
+Caption=Μη αυτόμ. εκκίνηση
+[StopUpdates10.frmScann.constDisabled]
+Caption=Σε διακοπή
+[StopUpdates10.frmScann.constProtected]
+Caption=Προστασία μητρώου
+[StopUpdates10.frmScann.constUnprotected]
+Caption=Το μητρώο δεν προστατεύεται
+
+[StopUpdates10.frmScann.HidetoSystemTray1]
+Caption=Ελαχιστοποίηση
+
+
+; Settings
+[StopUpdates10.frmSettings.tabProc]
+Caption=Απενεργοποίηση διεργασιών
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Απενεργοποίηση διεργασιών:
+[StopUpdates10.frmSettings.tabServ]
+Caption=Απενεργοποίηση υπηρεσιών
+[StopUpdates10.frmSettings.lblRecommendedServ]
+Caption=Απενεργοποίηση συνιστώμενων υπηρεσιών:
+
+[StopUpdates10.frmSettings.lblDisableAdditionalServices]
+Caption=Απενεργοποίηση επιπλέον υπηρεσιών:
+[StopUpdates10.frmSettings.lblAtyourrisk]
+Caption=Με δική σας ευθύνη!
+
+[StopUpdates10.frmSettings.lvlCustomServices]
+
+[StopUpdates10.frmSettings.cbDoubleProtectServices]
+Caption=Διπλή προστασία: Προστασία μέσω δικαιωμάτων μητρώου + Προστασία από StopUpdates10
+
+[StopUpdates10.frmSettings.btEdit]
+Caption=Επεξεργασία
+
+[StopUpdates10.frmSettings.lblServiceKeyName]
+Caption=Όνομα κλειδιού υπηρεσίας:
+[StopUpdates10.frmSettings.edtServName]
+
+[StopUpdates10.frmSettings.btSaveServName]
+Caption=Εντάξει
+
+[StopUpdates10.frmSettings.btCancelServName]
+Caption=’κυρο
+
+[StopUpdates10.frmSettings.tabPremium]
+Caption=Premium
+
+[StopUpdates10.frmSettings.lblPolling]
+Caption=Διάστημα ανίχνευσης για έλεγχο κατάστασης ενημερώσεων (λεπτά):
+
+[StopUpdates10.frmSettings.lblUpdateblocked]
+Caption=- Το Windows Update είναι αποκλεισμένο
+
+[StopUpdates10.frmSettings.lblUpdateisnotblocked]
+Caption=- Το Windows Update δεν είναι αποκλεισμένο
+
+[StopUpdates10.frmSettings.cbTrayIcon]
+Caption=Εικονίδιο κατάστασης του Windows Update στην περιοχή ειδοποιήσεων
+
+[StopUpdates10.frmSettings.edtPollingInterval]
+
+[StopUpdates10.frmSettings.cbWinStartup]
+Caption=Εκτέλεση κατά την εκκίνηση των Windows
+
+[StopUpdates10.frmSettings.btApply]
+Caption=Εφαρμογή
+
+[StopUpdates10.frmSettings.constServiceKeyName]
+Caption=Όνομα κλειδιού υπηρεσίας
+[StopUpdates10.frmSettings.constStatus]
+Caption=Κατάσταση
+
+; Ask
+[StopUpdates10.frmAsk]
+[StopUpdates10.frmAsk.lblQuestion]
+[StopUpdates10.frmAsk.btDisableEOS]
+Caption=Κλείσιμο εφαρμογής
+[StopUpdates10.frmAsk.GreatisButton1]
+Caption=Ελαχιστοποίηση
+[StopUpdates10.frmAsk.GreatisButton2]
+Caption=’κυρο

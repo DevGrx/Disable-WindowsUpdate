@@ -1,0 +1,261 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0
+Copyright=Copyright © 2000 Greatis Software
+
+[WebUpdate.@Info]
+Language=Ελληνικά
+Copyright=Copyright © 1999-2007 Greatis Software
+Info=Created by geogeo.gr
+
+[WebUpdate.Fmain]
+Caption=Έλεγχος ενημερώσεων του Greatis Software...
+
+
+[WebUpdate.Fmain.Panel1]
+
+
+
+[WebUpdate.Fmain.Label1]
+Font.Name=Tahoma
+Font.Size=14
+
+[WebUpdate.Fmain.Panel2]
+
+
+
+[WebUpdate.Fmain.Button3]
+Caption=Ρυθμίσεις σύνδεσης...
+
+
+
+[WebUpdate.Fmain.btExit]
+Caption=Έξοδος
+
+
+
+[WebUpdate.Fmain.SB1]
+
+
+
+[WebUpdate.Fmain.constAttemptingtoconnectto]
+Caption=Προσπάθεια σύνδεσης στο
+
+[WebUpdate.Fmain.constError]
+Caption=Σφάλμα
+
+[WebUpdate.Fmain.constConfigure]
+Caption=Ρυθμίσεις...
+
+[WebUpdate.Fmain.constCheckconfigurationplease]
+Caption=Έλεγχος των ρυθμίσεων. Παρακαλώ περιμένετε...
+
+[WebUpdate.Fmain.constStop]
+Caption=Διακοπή
+
+[WebUpdate.Fmain.constCouldntwritedatatotheregistry]
+Caption=Δεν είναι δυνατή η εγγραφή στο μητρώο. Ίσως δεν υπάρχουν αρκετά δικαιώματα εγγραφής.
+
+[WebUpdate.Fmain.constConfigurationchecking]
+Caption=Έλεγχος διαμόρφωσης ...
+
+[WebUpdate.Fmain.constPleasewait]
+Caption=Παρακαλώ περιμένετε...
+
+[WebUpdate.Fmain.constKbread]
+Caption=Kb που αναγνώστηκαν
+
+[WebUpdate.Fmain.constConnectionrefused]
+Caption=Η σύνδεση απορρίφθηκε!
+
+[WebUpdate.Fmain.constConnectionabortedbyuser]
+Caption=Η σύνδεση ματαιώθηκε από τον χρήστη!
+
+[WebUpdate.Fmain.constHostnotfound]
+Caption=Δεν βρέθηκε η τοποθεσία ή δεν υπάρχει σύνδεση!
+
+[WebUpdate.Fmain.constConnectionerror]
+Caption=Σφάλμα σύνδεσης!
+
+[WebUpdate.Fmain.constServiceistemporarilyunavalableTryagainlaterplease]
+Caption=Η υπηρεσία προσωρινά δεν είναι διαθέσιμη. Δοκιμάστε πάλι αργότερα.
+
+[WebUpdate.Fmain.constDownloadingerrorTryagainplease]
+Caption=Σφάλμα λήψης. Παρακαλώ δοκιμάστε ξανά.
+
+[WebUpdate.Fmain.constYouhavethelatestversionof]
+Caption=Έχετε την τελευταία έκδοση του
+
+[WebUpdate.Fmain.constWouldyouliketovisitGreatisSoftwareWebSite]
+Caption=Θέλετε να επισκεφθείτε τον ιστότοπο του Greatis Software;
+
+[WebUpdate.Fmain.constAppName]
+Caption=Όνομα εφαρμογής
+
+[WebUpdate.Fmain.constAnewerversion]
+Caption=Μια νέα έκδοση
+
+[WebUpdate.Fmain.constwasfound]
+Caption=έχει βρεθεί!
+
+[WebUpdate.Fmain.constCantopenthelink]
+Caption=Δεν είναι δυνατό το άνοιγμα του συνδέσμου!
+
+[WebUpdate.Fmain.constYouarenotconnectedtoInternetnowPressOKwhenyouwillbeready]
+Caption=Δεν είστε συνδεδεμένος στο διαδίκτυο τώρα. Πατήστε OK όταν θα είστε έτοιμος.
+
+[WebUpdate.HttpTestForm]
+Caption=Ρυθμίσεις
+
+
+
+[WebUpdate.HttpTestForm.Label4]
+Caption=Δεν υπάρχει σύνδεση στο διαδίκτυο.
+
+
+
+[WebUpdate.HttpTestForm.btCancel]
+Caption=’κυρο
+
+
+
+[WebUpdate.HttpTestForm.btOK]
+Caption=Εντάξει
+
+
+
+[WebUpdate.HttpTestForm.rgConnectType]
+Caption=Ρυθμίσεις διαδικτύου
+Items.0=Χρήση μόντεμ σύνδεσης διαδικτύου μέσω τηλεφώνου 
+Items.1=Χρήση σύνδεσης διαδικτύου μέσω LAN
+Items.2=Είμαι μόνιμα συνδεδεμένος στο διαδίκτυο
+Items.3=Τοπική διαδρομή (κατάλογος στον σκληρό δίσκο ή στο δίκτυο)
+
+[WebUpdate.HttpTestForm.grpLan]
+Caption=Ρυθμίσεις LAN
+
+
+
+[WebUpdate.HttpTestForm.Label2]
+Caption=Διακομιστής μεσολάβησης
+
+
+
+[WebUpdate.HttpTestForm.Label1]
+Caption=Όνομα χρήστη μεσολαβητή
+
+
+
+[WebUpdate.HttpTestForm.Label6]
+Caption=Θύρα μεσολαβητή
+
+
+
+[WebUpdate.HttpTestForm.Label3]
+Caption=Κωδικός μεσολαβητή
+
+
+
+[WebUpdate.HttpTestForm.ProxyHostEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyUserEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPortEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPassEdit]
+
+
+
+[WebUpdate.Fdown]
+Caption=Αναζήτηση για νέα έκδοση
+
+
+
+[WebUpdate.Fdown.Label1]
+
+Font.Size=10
+
+[WebUpdate.Fdown.Panel1]
+
+
+
+[WebUpdate.Fdown.Button1]
+Caption=Λήψη
+
+
+
+[WebUpdate.Fdown.Button2]
+Caption=’κυρο
+
+
+
+[WebUpdate.Fdown.Memo1]
+
+Font.Size=10
+
+[WebUpdate.frmMenu]
+Caption=Τι θέλετε να ενημερώσετε;
+
+
+
+[WebUpdate.frmMenu.btAppDatabase]
+Caption=Βάση δεδομένων εφαρμογής
+
+
+
+[WebUpdate.frmMenu.btRegRunGold]
+Caption=RegRun Security Suite Gold Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunPro]
+Caption=RegRun Security Suite Pro Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunStd]
+Caption=RegRun Security Suite Standard
+
+
+
+[WebUpdate.frmMenu.btDeskKeeper]
+Caption=DesktopKeeper
+
+
+
+[WebUpdate.Fmain.constUnzipitand]
+Caption=Κάντε αποσυμπίεση και τρέξτε το εκτελέσιμο αρχείο.
+; 4.50
+[WebUpdate.HttpTestForm.edtLocal]
+[WebUpdate.Fmain.constTheupdatehasbeendownloadedsuccessfully]
+Caption=Η λήψη της ενημέρωσης έγινε με επιτυχία. 
+[WebUpdate.Fmain.constNowitwillbeinstalledtoyourApplicationDatabase]
+CaptionΤώρα θα γίνει η εγκατάστασή της. Παρακαλώ περιμένετε.
+[WebUpdate.Fmain.constRunitnow]
+Caption=Θέλετε να ξεκινήσει η διαδικασία ενημέρωσης;
+[WebUpdate.Fmain.constUnzipitand]
+Caption=Κάντε αποσυμπίεση και τρέξτε το εκτελέσιμο αρχείο.
+;650
+[WebUpdate.Fmain.constCouldnotfoundfile]
+Caption=Το αρχείο δεν βρέθηκε
+[WebUpdate.Fmain.constNotauthorised]
+Caption=Σφάλμα εξουσιοδότησης
+[WebUpdate.Fmain.constInternalServerError]
+Caption=Εσωτερικό σφάλμα διακομιστή
+[WebUpdate.Fmain.constDownloading]
+Caption=Λήψη
+[WebUpdate.Fmain.constSuccessfullyupdated]
+Caption=Η ενημέρωση ολοκληρώθηκε με επιτυχία!
+[WebUpdate.Fmain.constSuccessfullydownloaded]
+Caption=Η λήψη ολοκληρώθηκε με επιτυχία
+
+[WebUpdate.HttpTestForm.btDisableUpdate]
+Caption=Απενεργοποίηση αυτόματης ενημέρωσης
+[WebUpdate.HttpTestForm.opnLocalDir]
+Filter=Αρχεία ρύθμισης ενημερώσεων|*.ini

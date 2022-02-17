@@ -1,0 +1,261 @@
+[@Info]
+Description = TLocalizer Data File
+Version = 1.0
+Copyright = Copyright © 2000 Greatis Software
+
+[WebUpdate. @ Info]
+Language = Русский
+Copyright = Copyright © 1999-2007 Greatis Software
+Info = Created by TLocalizer
+
+[WebUpdate.Fmain]
+Caption = Перевірка оновлень Greatis Software ...
+
+
+[WebUpdate.Fmain.Panel1]
+
+
+
+[WebUpdate.Fmain.Label1]
+Font.Name = Tahoma
+Font.Size = 14
+
+[WebUpdate.Fmain.Panel2]
+
+
+
+[WebUpdate.Fmain.Button3]
+Caption = Налаштування ...
+
+
+
+[WebUpdate.Fmain.btExit]
+Caption = Вихід
+
+
+
+[WebUpdate.Fmain.SB1]
+
+
+
+[WebUpdate.Fmain.constAttemptingtoconnectto]
+Caption = Намагаюся підключитися до
+
+[WebUpdate.Fmain.constError]
+Caption = Помилка
+
+[WebUpdate.Fmain.constConfigure]
+Caption = Установки ...
+
+[WebUpdate.Fmain.constCheckconfigurationplease]
+Caption = Будь ласка, перевірте установки
+
+[WebUpdate.Fmain.constStop]
+Caption = Стоп
+
+[WebUpdate.Fmain.constCouldntwritedatatotheregistry]
+Caption = Не можу записати в реєстр. Можливо, мало прав для запису.
+
+[WebUpdate.Fmain.constConfigurationchecking]
+Caption = Перевірка конфігурації ...
+
+[WebUpdate.Fmain.constPleasewait]
+Caption = Зачекайте, будь ласка ...
+
+[WebUpdate.Fmain.constKbread]
+Caption = Kб прочитано
+
+[WebUpdate.Fmain.constConnectionrefused]
+Caption = З'єднання розірване!
+
+[WebUpdate.Fmain.constConnectionabortedbyuser]
+Caption = З'єднання скасовано користувачем!
+
+[WebUpdate.Fmain.constHostnotfound]
+Caption = Сайт не найден чи ні підключення!
+
+[WebUpdate.Fmain.constConnectionerror]
+Caption = Помилка підключення!
+
+[WebUpdate.Fmain.constServiceistemporarilyunavalableTryagainlaterplease]
+Caption = Сервіс тимчасово недоступний. Спробуй пізніше.
+
+[WebUpdate.Fmain.constDownloadingerrorTryagainplease]
+Caption = Помилка завантаження файлу. Спробуй пізніше.
+
+[WebUpdate.Fmain.constYouhavethelatestversionof]
+Caption = У вас остання версія програми
+
+[WebUpdate.Fmain.constWouldyouliketovisitGreatisSoftwareWebSite]
+Caption = Хотіли б відвідати сайт Greatis Software?
+
+[WebUpdate.Fmain.constAppName]
+Caption = Авто Оновлення
+
+[WebUpdate.Fmain.constAnewerversion]
+Caption = Нова версія програми
+
+[WebUpdate.Fmain.constwasfound]
+Caption = знайдена!
+
+[WebUpdate.Fmain.constCantopenthelink]
+Caption = Не можу відкрити сторінку!
+
+[WebUpdate.Fmain.constYouarenotconnectedtoInternetnowPressOKwhenyouwillbeready]
+Caption = Ви не підключені до Інтернет. Натисніть OK після підключення.
+
+[WebUpdate.HttpTestForm]
+Caption = Установки
+
+
+
+[WebUpdate.HttpTestForm.Label4]
+Caption = Немає підключення до Інтернет.
+
+
+
+[WebUpdate.HttpTestForm.btCancel]
+Caption = Скасування
+
+
+
+[WebUpdate.HttpTestForm.btOK]
+Caption = OK
+
+
+
+[WebUpdate.HttpTestForm.rgConnectType]
+Caption = Налаштування зв'язку з Інтернет
+Items.0 = З'єднання по модему
+Items.1 = З'єднання по локальній мережі
+Items.2 = Підключений безпосередньо
+Items.3 = Чи не підключений. Оновлювати з локального диска
+
+[WebUpdate.HttpTestForm.grpLan]
+Caption = Налаштування ЛВС
+
+
+
+[WebUpdate.HttpTestForm.Label2]
+Caption = Проксі сервер
+
+
+
+[WebUpdate.HttpTestForm.Label1]
+Caption = Проксі користувач
+
+
+
+[WebUpdate.HttpTestForm.Label6]
+Caption = Порт проксі
+
+
+
+[WebUpdate.HttpTestForm.Label3]
+Caption = Пароль проксі
+
+
+
+[WebUpdate.HttpTestForm.ProxyHostEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyUserEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPortEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPassEdit]
+
+
+
+[WebUpdate.Fdown]
+Caption = Пошук нової версії
+
+
+
+[WebUpdate.Fdown.Label1]
+
+Font.Size = 10
+
+[WebUpdate.Fdown.Panel1]
+
+
+
+[WebUpdate.Fdown.Button1]
+Caption = Завантажити
+
+
+
+[WebUpdate.Fdown.Button2]
+Caption = Скасування
+
+
+
+[WebUpdate.Fdown.Memo1]
+
+Font.Size = 10
+
+[WebUpdate.frmMenu]
+Caption = Що ви хочете оновити?
+
+
+
+[WebUpdate.frmMenu.btAppDatabase]
+Caption = Базу програм
+
+
+
+[WebUpdate.frmMenu.btRegRunGold]
+Caption = RegRun Security Suite Gold Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunPro]
+Caption = RegRun Security Suite Pro Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunStd]
+Caption = RegRun Security Suite Standard
+
+
+
+[WebUpdate.frmMenu.btDeskKeeper]
+Caption = DesktopKeeper
+
+
+
+[WebUpdate.Fmain.constUnzipitand]
+Caption = розпакування запустіть виконуваний файл.
+; 4.50
+[WebUpdate.HttpTestForm.edtLocal]
+[WebUpdate.Fmain.constTheupdatehasbeendownloadedsuccessfully]
+Caption = Оновлення успішно завантажено.
+[WebUpdate.Fmain.constNowitwillbeinstalledtoyourApplicationDatabase]
+Caption = Зараз воно буде встановлено. Зачекайте.
+[WebUpdate.Fmain.constRunitnow]
+Caption = Запустити процес оновлення?
+[WebUpdate.Fmain.constUnzipitand]
+Caption = Розпакувати і запустити виконуваний файл.
+; 650
+[WebUpdate.Fmain.constCouldnotfoundfile]
+Caption = Не вдалося знайти файл
+[WebUpdate.Fmain.constNotauthorised]
+Caption = Помилка авторизації
+[WebUpdate.Fmain.constInternalServerError]
+Caption = Внутрішня помилка сервера
+[WebUpdate.Fmain.constDownloading]
+Caption = Завантаження
+[WebUpdate.Fmain.constSuccessfullyupdated]
+Caption = Оновлення успішно завершено!
+[WebUpdate.Fmain.constSuccessfullydownloaded]
+Caption = Завантаження успішно завершена
+
+[WebUpdate.HttpTestForm.btDisableUpdate]
+Caption = Відключити авто оновлення
+[WebUpdate.HttpTestForm.opnLocalDir]
+Filter = Файли оновлень | * .ini

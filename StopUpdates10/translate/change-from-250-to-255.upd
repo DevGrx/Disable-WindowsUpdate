@@ -1,0 +1,94 @@
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Recommend you:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Pause Updates...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Resume Updates
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Options...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=More information
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Updates paused until
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=You can pause installing updates
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Download
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Update Windows Defender Signatures
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Pause Updates
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Pause updates until:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Pause Features Updates (major updates 2 times per year)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Pause Month Updates (Cumulative Quality Updates )
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=OK
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=Updating Windows Defender Signatures
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Abort
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Check Log
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Close
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Suggest a Feature
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=Disable EOS Notifications
+Hint=Block End of Service and End of Support Screens
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=Enable EOS Notifications
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=More information
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=Disable GWX
+Hint=Disable Get Windows 10 notifications and pop-ups
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=GWX is disabled
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=GWX (Get Widows 10) is not found.

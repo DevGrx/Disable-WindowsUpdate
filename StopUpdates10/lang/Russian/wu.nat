@@ -1,0 +1,268 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0
+Copyright=Copyright © 2000 Greatis Software
+
+[WebUpdate.@Info]
+Language=Русский
+Copyright=Copyright © 1999-2007 Greatis Software
+Info=Created by TLocalizer
+
+[WebUpdate.Fmain]
+Caption=Проверка обновлений Greatis Software...
+
+
+[WebUpdate.Fmain.Panel1]
+
+
+
+[WebUpdate.Fmain.Label1]
+Font.Name=Tahoma
+Font.Size=14
+
+[WebUpdate.Fmain.Panel2]
+
+
+
+[WebUpdate.Fmain.Button3]
+Caption=Настройки...
+
+
+
+[WebUpdate.Fmain.btExit]
+Caption=Выход
+
+
+
+[WebUpdate.Fmain.SB1]
+
+
+
+[WebUpdate.Fmain.constAttemptingtoconnectto]
+Caption=Пытаюсь подключиться к
+
+[WebUpdate.Fmain.constError]
+Caption=Ошибка
+
+[WebUpdate.Fmain.constConfigure]
+Caption=Установки...
+
+[WebUpdate.Fmain.constCheckconfigurationplease]
+Caption=Пожалуйста, проверьте установки
+
+[WebUpdate.Fmain.constStop]
+Caption=Стоп
+
+[WebUpdate.Fmain.constCouldntwritedatatotheregistry]
+Caption=Не могу записать в реестр. Возможно, не достаточно прав для записи.
+
+[WebUpdate.Fmain.constConfigurationchecking]
+Caption=Проверка конфигурации...
+
+[WebUpdate.Fmain.constPleasewait]
+Caption=Подождите, пожалуйста...
+
+[WebUpdate.Fmain.constKbread]
+Caption=Kб прочитано
+
+[WebUpdate.Fmain.constConnectionrefused]
+Caption=Соединение разорвано!
+
+[WebUpdate.Fmain.constConnectionabortedbyuser]
+Caption=Соединение отменено пользователем!
+
+[WebUpdate.Fmain.constHostnotfound]
+Caption=Сайт не найден или нет подключения!
+
+[WebUpdate.Fmain.constConnectionerror]
+Caption=Ошибка подключения!
+
+[WebUpdate.Fmain.constServiceistemporarilyunavalableTryagainlaterplease]
+Caption=Сервис временно недоступен. Попробуйте позже.
+
+[WebUpdate.Fmain.constDownloadingerrorTryagainplease]
+Caption=Ошибка загрузки файла. Попробуйте позже.
+
+[WebUpdate.Fmain.constYouhavethelatestversionof]
+Caption=У вас самая последняя версия программы
+
+[WebUpdate.Fmain.constWouldyouliketovisitGreatisSoftwareWebSite]
+Caption=Хотели бы посетить сайт Greatis Software?
+
+[WebUpdate.Fmain.constAppName]
+Caption=Авто Обновление
+
+[WebUpdate.Fmain.constAnewerversion]
+Caption=Новая версия программы
+
+[WebUpdate.Fmain.constwasfound]
+Caption=найдена!
+
+[WebUpdate.Fmain.constCantopenthelink]
+Caption=Не могу открыть страницу!
+
+[WebUpdate.Fmain.constYouarenotconnectedtoInternetnowPressOKwhenyouwillbeready]
+Caption=Вы не подключены к Интернет. Нажмите OK после подключения.
+
+[WebUpdate.HttpTestForm]
+Caption=Установки
+
+
+
+[WebUpdate.HttpTestForm.Label4]
+Caption=Нет подключения к Интернет.
+
+
+
+[WebUpdate.HttpTestForm.btCancel]
+Caption=Отмена
+
+
+
+[WebUpdate.HttpTestForm.btOK]
+Caption=OK
+
+
+
+[WebUpdate.HttpTestForm.rgConnectType]
+Caption=Настройки связи с Интернет
+Items.0=Соединение по модему 
+Items.1=Соединение по локальной сети
+Items.2=Подключен напрямую
+Items.3=Не подключен. Обновлять с локального диска
+
+[WebUpdate.HttpTestForm.grpLan]
+Caption=Настройки ЛВС
+
+
+
+[WebUpdate.HttpTestForm.Label2]
+Caption=Прокси сервер
+
+
+
+[WebUpdate.HttpTestForm.Label1]
+Caption=Прокси пользователь
+
+
+
+[WebUpdate.HttpTestForm.Label6]
+Caption=Порт прокси
+
+
+
+[WebUpdate.HttpTestForm.Label3]
+Caption=Пароль прокси
+
+
+
+[WebUpdate.HttpTestForm.ProxyHostEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyUserEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPortEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPassEdit]
+
+
+
+[WebUpdate.Fdown]
+Caption=Поиск новой версии
+
+
+
+[WebUpdate.Fdown.Label1]
+
+Font.Size=10
+
+[WebUpdate.Fdown.Panel1]
+
+
+
+[WebUpdate.Fdown.Button1]
+Caption=Загрузить
+
+
+
+[WebUpdate.Fdown.Button2]
+Caption=Отмена
+
+
+
+[WebUpdate.Fdown.Memo1]
+
+Font.Size=10
+
+[WebUpdate.frmMenu]
+Caption=Что вы хотите обновить?
+
+
+
+[WebUpdate.frmMenu.btAppDatabase]
+Caption=Базу программ
+
+
+
+[WebUpdate.frmMenu.btRegRunGold]
+Caption=RegRun Security Suite Gold Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunPro]
+Caption=RegRun Security Suite Pro Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunStd]
+Caption=RegRun Security Suite Standard
+
+
+
+[WebUpdate.frmMenu.btDeskKeeper]
+Caption=DesktopKeeper
+
+
+
+[WebUpdate.Fmain.constUnzipitand]
+Caption=Распакуйте и запустите исполняемый файл.
+; 4.50
+[WebUpdate.HttpTestForm.edtLocal]
+[WebUpdate.Fmain.constTheupdatehasbeendownloadedsuccessfully]
+Caption=Обновление успешно загружено. 
+[WebUpdate.Fmain.constNowitwillbeinstalledtoyourApplicationDatabase]
+Caption=Сейчас оно будет установлено. Подождите.
+[WebUpdate.Fmain.constRunitnow]
+Caption=Запустить процесс обновления?
+[WebUpdate.Fmain.constUnzipitand]
+Caption=Распаковать и запустить исполняемый файл.
+;650
+[WebUpdate.Fmain.constCouldnotfoundfile]
+Caption=Не найден файл
+[WebUpdate.Fmain.constNotauthorised]
+Caption=Ошибка авторизации
+[WebUpdate.Fmain.constInternalServerError]
+Caption=Внутренняя ошибка сервера
+[WebUpdate.Fmain.constDownloading]
+Caption=Загрузка
+[WebUpdate.Fmain.constSuccessfullyupdated]
+Caption=Обновление успешно завершено!
+[WebUpdate.Fmain.constSuccessfullydownloaded]
+Caption=Загрузка успешно завершена
+
+[WebUpdate.HttpTestForm.btDisableUpdate]
+Caption=Отключить авто обновление
+[WebUpdate.HttpTestForm.opnLocalDir]
+Filter=Конфигурационные файлы обновлений|*.ini
+;1170
+[WebUpdate.HttpTestForm.btDisplayLog]
+Caption=Показать лог
+[WebUpdate.frmMenu.btConf]
+Caption=Настройки
+[WebUpdate.frmMenu.btClose]
+Caption=Выход

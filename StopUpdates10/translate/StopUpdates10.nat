@@ -1,0 +1,486 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=English
+Copyright=Copyright © 2018 Greatis Software
+Info=Created by TLocalizer
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Protection Status
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Check for New Version
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Help/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Check Log...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Freeware  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Please, wait...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Stop Waiting...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=Another My Apps:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Download!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Restore Windows Updates
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Stop Windows Updates!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Refresh
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Status:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Not found
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Failure! Writing Error
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Failure! Error in removal
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Cannot Open
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Key Deleting Error
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Attempt to Run
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Windows Update is not blocked.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Windows Update is partially blocked.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Windows Update is blocked!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Free tool for monitoring your Windows boot time and your PC slow down.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Small program for resetting the Microsoft Edge browser. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=The Best Malware Killer!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Protects your PC against web cryptocurrency miners  (FREE)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Stop Updates Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Version
+[StopUpdates10.frmScann.constExecuted]
+Caption=Executed:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Process is not blocked
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Please, wait...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Updating Service is not disabled!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Update Service is running now!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=So, what's the next move?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Scan for hidden malware on your PC
+Hint=Free Scan using our UnHackMe software
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Success! Windows Update has been blocked!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=So, what's the next move?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Take control over your startup programs
+Hint=Use our free BootRacer software
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Say Thank You!
+Hint=Your opinion is very important for us
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Now you have to restart program to get English interface.
+[StopUpdates10.frmScann.File1]
+Caption=File
+[StopUpdates10.frmScann.Exit1]
+Caption=Exit
+[StopUpdates10.frmScann.Tools1]
+Caption=Tools
+[StopUpdates10.frmScann.Refresh1]
+Caption=Refresh Status
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Windows Shutdown
+[StopUpdates10.frmScann.Help1]
+Caption=Help
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Visit Home Page/FAQ...
+[StopUpdates10.frmScann.Language1]
+Caption=Language
+[StopUpdates10.frmScann.Translate1]
+Caption=Translate...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Check for New Version...
+[StopUpdates10.frmScann.Settings1]
+Caption=Settings...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Settings
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=ONLY For Power Users!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Disable Windows Upgrade
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Disable Windows Update
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Disable Windows Update Service
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Disable Processes:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Cancel
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Change this on your own risk! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Self Update
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=New Version Check at Program Startup
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Close
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Disable Updates Guard
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Enable Updates Guard
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=Updates Guard is disabled!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=Updates Guard is active!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Updates Guard polls the Windows update service status.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=If the Windows update service will start, Guard will disable it.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=Updates Guard works in the background as a service. It protects you, even if you are not logged in to Windows.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Restart Windows
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Updates Guard is Active
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Disable Services:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=Updates Guard automatically protects you in the background. 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=Windows update blocking is not protected
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Undo
+Hint=Undo Made Changes
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Suggest a Feature
+
+;255
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Recommend you:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Pause Updates...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Resume Updates
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Options...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=More information
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Updates paused until
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=You can pause installing updates
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Download
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Update Windows Defender Signatures
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Pause Updates
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Pause updates until:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Pause Features Updates (major updates 2 times per year)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Pause Month Updates (Cumulative Quality Updates )
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=OK
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=Updating Windows Defender Signatures
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Abort
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Check Log
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Close
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Suggest a Feature
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=Disable EOS Notifications
+Hint=Block End of Service and End of Support Screens
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=Enable EOS Notifications
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=More information
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=Disable GWX
+Hint=Disable Get Windows 10 notifications and pop-ups
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=GWX is disabled
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=GWX (Get Widows 10) is not found.
+
+;300
+[StopUpdates10.frmScann.lblDonate]
+
+[StopUpdates10.frmScann.btDonate]
+Caption=Donate Premium
+[StopUpdates10.frmScann.pnlRegister]
+[StopUpdates10.frmScann.lblRegistered]
+[StopUpdates10.frmScann.btRegister]
+Caption=Register
+[StopUpdates10.frmScann.btRegisteranother]
+Hint=Register to another person...
+
+[StopUpdates10.frmScann.pnlReg]
+[StopUpdates10.frmScann.GreatisButton1]
+Caption=Close
+[StopUpdates10.frmScann.btCheckRegCode]
+Caption=Register
+[StopUpdates10.frmScann.gpAffi]
+[StopUpdates10.frmScann.lblYourLicenseKey]
+Caption=Your License Key:
+[StopUpdates10.frmScann.lblStronglyrecommendcopypaste]
+Caption=Strongly recommend you to copy and paste your code from registration message!
+[StopUpdates10.frmScann.gbPasteSerial]
+Caption=Paste from clipboard
+[StopUpdates10.frmScann.edtKey2]
+[StopUpdates10.frmScann.edtRegCode]
+[StopUpdates10.frmScann.edtLicense]
+
+[StopUpdates10.frmScann.constServicedoesnotexist]
+Caption=Service does not exist.
+[StopUpdates10.frmScann.constRecommendyou]
+Caption=Recommend you
+[StopUpdates10.frmScann.constComputers]
+Caption=Computers
+[StopUpdates10.frmScann.constValiduntil]
+Caption=Valid until:
+[StopUpdates10.frmScann.constRegisteredto]
+Caption=Registered to:
+[StopUpdates10.frmScann.constInvalidregistrationkeyorregistrationinformation]
+Caption=Invalid registration key or registration information!
+[StopUpdates10.frmScann.constDoyouwanttocompletelycloseStopUpdates10]
+Caption=Do you want to completely close StopUpdates10 or minimize it to the system tray?
+[StopUpdates10.frmScann.constAutoStart]
+Caption=Auto Start
+[StopUpdates10.frmScann.constManualStart]
+Caption=Manual Start
+[StopUpdates10.frmScann.constDisabled]
+Caption=Disabled
+[StopUpdates10.frmScann.constProtected]
+Caption=Registry Protected
+[StopUpdates10.frmScann.constUnprotected]
+Caption=Registry Unprotected
+
+[StopUpdates10.frmSettings.tabProc]
+Caption=Disable Processes
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Disable Processes:
+[StopUpdates10.frmSettings.tabServ]
+Caption=Disable Services
+[StopUpdates10.frmSettings.lblRecommendedServ]
+Caption=Disable Recommended Services:
+
+[StopUpdates10.frmSettings.lblDisableAdditionalServices]
+Caption=Disable Additional Services:
+[StopUpdates10.frmSettings.lblAtyourrisk]
+Caption=At your own risk!
+
+[StopUpdates10.frmSettings.lvlCustomServices]
+
+[StopUpdates10.frmSettings.cbDoubleProtectServices]
+Caption=Double Protection: Protect via Registry Permissions + Protect by Updates Guard
+
+[StopUpdates10.frmSettings.btEdit]
+Caption=Edit
+
+[StopUpdates10.frmSettings.lblServiceKeyName]
+Caption=Service Key Name:
+[StopUpdates10.frmSettings.edtServName]
+
+[StopUpdates10.frmSettings.btSaveServName]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancelServName]
+Caption=Cancel
+
+[StopUpdates10.frmSettings.tabPremium]
+Caption=Premium
+
+[StopUpdates10.frmSettings.lblPolling]
+Caption=Polling interval for Checking Update Status (min):
+
+[StopUpdates10.frmSettings.lblUpdateblocked]
+Caption=- Windows Update is blocked
+
+[StopUpdates10.frmSettings.lblUpdateisnotblocked]
+Caption=- Windows Update is not blocked
+
+[StopUpdates10.frmSettings.cbTrayIcon]
+Caption=Windows Update Status Icon in the System Tray
+
+[StopUpdates10.frmSettings.edtPollingInterval]
+
+[StopUpdates10.frmSettings.cbWinStartup]
+Caption=Run at Windows startup
+
+[StopUpdates10.frmSettings.btApply]
+Caption=Apply
+
+[StopUpdates10.frmSettings.constServiceKeyName]
+Caption=Service Key Name
+[StopUpdates10.frmSettings.constStatus]
+Caption=Status
+
+[StopUpdates10.frmAsk]
+[StopUpdates10.frmAsk.lblQuestion]
+[StopUpdates10.frmAsk.btDisableEOS]
+Caption=Close Application
+[StopUpdates10.frmAsk.GreatisButton1]
+Caption=Hide to Tray
+[StopUpdates10.frmAsk.GreatisButton2]
+Caption=Cancel
+;350
+[StopUpdates10.frmScann.pnlHardBlock]
+Caption=Windows Update - Hard Block:
+[StopUpdates10.frmScann.pnlSoftBlock]
+Caption=Windows Update - Soft Block:
+Hint=Soft Block allows Windows Defender and Store Apps updates.

@@ -1,0 +1,35 @@
+StopUpdates10 is Copyright (c) by Greatis Software. All rights reserved.
+
+You should carefully read the following terms and conditions before using this software. Use of this software indicates your acceptance of these terms and conditions. If you do not agree with them, do not use the software.
+
+License Agreement
+
+This is freeware for non-commercial or commercial use.
+You may install this program  use without any limitations. 
+
+This software may be distributed freely on on-line services, bulletin
+boards or other electronic media as long as the files are distributed
+in their entirety. This software may be distributed on CD-ROM, disk,
+or other physical media without the permission of Greatis Software.
+
+You may not alter this software in any way, including changing or removing any messages or windows.  
+
+You may not decompile, reverse engineer, disassemble or otherwise
+reduce this software to a human perceivable form. You may not modify,
+rent or resell this software for profit, or create derivative works
+based upon this software. You may not publicize or distribute any
+registration code algorithms, information, or registration codes used
+by this software without permission of Greatis Software.
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT
+WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER
+WARRANTIES WHETHER EXPRESSED OR IMPLIED. BECAUSE OF THE VARYING
+HARDWARE/SOFTWARE ENVIRONMENTS INTO WHICH StopUpdates10 MAY BE PUT, THERE
+IS NO WARRANTY OF SUITABILITY FOR A PARTICULAR PURPOSE.
+
+GOOD DATA PROCESSING PROCEDURE DICTATES THAT ANY PROGRAM BE THOROUGHLY
+TESTED BEFORE RELYING ON IT. THE USER MUST ASSUME THE ENTIRE RISK OF
+USING THE PROGRAM. ANY LIABILITY OF THE SELLER WILL BE LIMITED
+EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF PURCHASE PRICE.

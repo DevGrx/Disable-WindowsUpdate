@@ -1,0 +1,127 @@
+;300
+[StopUpdates10.frmScann.lblDonate]
+
+[StopUpdates10.frmScann.btDonate]
+Caption=Donate Premium
+[StopUpdates10.frmScann.pnlRegister]
+[StopUpdates10.frmScann.lblRegistered]
+[StopUpdates10.frmScann.btRegister]
+Caption=Register
+[StopUpdates10.frmScann.btRegisteranother]
+Hint=Register to another person...
+
+[StopUpdates10.frmScann.pnlReg]
+[StopUpdates10.frmScann.GreatisButton1]
+Caption=Close
+[StopUpdates10.frmScann.btCheckRegCode]
+Caption=Register
+[StopUpdates10.frmScann.gpAffi]
+[StopUpdates10.frmScann.lblYourLicenseKey]
+Caption=Your License Key:
+[StopUpdates10.frmScann.lblStronglyrecommendcopypaste]
+Caption=Strongly recommend you to copy and paste your code from registration message!
+[StopUpdates10.frmScann.gbPasteSerial]
+Caption=Paste from clipboard
+[StopUpdates10.frmScann.edtKey2]
+[StopUpdates10.frmScann.edtRegCode]
+[StopUpdates10.frmScann.edtLicense]
+
+[StopUpdates10.frmScann.constServicedoesnotexist]
+Caption=Service does not exist.
+[StopUpdates10.frmScann.constRecommendyou]
+Caption=Recommend you
+[StopUpdates10.frmScann.constComputers]
+Caption=Computers
+[StopUpdates10.frmScann.constValiduntil]
+Caption=Valid until:
+[StopUpdates10.frmScann.constRegisteredto]
+Caption=Registered to:
+[StopUpdates10.frmScann.constInvalidregistrationkeyorregistrationinformation]
+Caption=Invalid registration key or registration information!
+[StopUpdates10.frmScann.constDoyouwanttocompletelycloseStopUpdates10]
+Caption=Do you want to completely close StopUpdates10 or minimize it to the system tray?
+[StopUpdates10.frmScann.constAutoStart]
+Caption=Auto Start
+[StopUpdates10.frmScann.constManualStart]
+Caption=Manual Start
+[StopUpdates10.frmScann.constDisabled]
+Caption=Disabled
+[StopUpdates10.frmScann.constProtected]
+Caption=Registry Protected
+[StopUpdates10.frmScann.constUnprotected]
+Caption=Registry Unprotected
+
+[StopUpdates10.frmScann.HidetoSystemTray1]
+Caption=Hide to System Tray
+
+
+; Settings
+[StopUpdates10.frmSettings.tabProc]
+Caption=Disable Processes
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Disable Processes:
+[StopUpdates10.frmSettings.tabServ]
+Caption=Disable Services
+[StopUpdates10.frmSettings.lblRecommendedServ]
+Caption=Disable Recommended Services:
+
+[StopUpdates10.frmSettings.lblDisableAdditionalServices]
+Caption=Disable Additional Services:
+[StopUpdates10.frmSettings.lblAtyourrisk]
+Caption=At your own risk!
+
+[StopUpdates10.frmSettings.lvlCustomServices]
+
+[StopUpdates10.frmSettings.cbDoubleProtectServices]
+Caption=Double Protection: Protect via Registry Permissions + Protect by Updates Guard
+
+[StopUpdates10.frmSettings.btEdit]
+Caption=Edit
+
+[StopUpdates10.frmSettings.lblServiceKeyName]
+Caption=Service Key Name:
+[StopUpdates10.frmSettings.edtServName]
+
+[StopUpdates10.frmSettings.btSaveServName]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancelServName]
+Caption=Cancel
+
+[StopUpdates10.frmSettings.tabPremium]
+Caption=Premium
+
+[StopUpdates10.frmSettings.lblPolling]
+Caption=Polling interval for Checking Update Status (min):
+
+[StopUpdates10.frmSettings.lblUpdateblocked]
+Caption=- Windows Update is blocked
+
+[StopUpdates10.frmSettings.lblUpdateisnotblocked]
+Caption=- Windows Update is not blocked
+
+[StopUpdates10.frmSettings.cbTrayIcon]
+Caption=Windows Update Status Icon in the System Tray
+
+[StopUpdates10.frmSettings.edtPollingInterval]
+
+[StopUpdates10.frmSettings.cbWinStartup]
+Caption=Run at Windows startup
+
+[StopUpdates10.frmSettings.btApply]
+Caption=Apply
+
+[StopUpdates10.frmSettings.constServiceKeyName]
+Caption=Service Key Name
+[StopUpdates10.frmSettings.constStatus]
+Caption=Status
+
+; Ask
+[StopUpdates10.frmAsk]
+[StopUpdates10.frmAsk.lblQuestion]
+[StopUpdates10.frmAsk.btDisableEOS]
+Caption=Close Application
+[StopUpdates10.frmAsk.GreatisButton1]
+Caption=Hide to Tray
+[StopUpdates10.frmAsk.GreatisButton2]
+Caption=Cancel

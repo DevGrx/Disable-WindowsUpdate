@@ -1,0 +1,357 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright c2018 Greatis Software
+[StopUpdates10.@Info]
+Language=正體中文 - Chinese Traditional
+Copyright=Copyright c2018 Greatis Software
+Info=丹楓 繁化
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=保護狀態
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=檢查新版本
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=說明/常見問題集
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=檢查記錄...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  免費軟體  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=請稍候...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=停止等候...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=我的其他應用程式:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=下載!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=還原 Windows Updates
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=停止 Windows Updates!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=重新整理
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=狀態:
+[StopUpdates10.frmScann.constNotfound]
+Caption=找不到
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=失敗!寫入出錯
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=失敗!刪除時出錯
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=無法開啟
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=機碼刪除出錯
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=嘗試執行
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=未封鎖 Windows Update。
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Windows Update 部分被封鎖。
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Windows Update 遭封鎖!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=用於監控 Windows 啟動時間和電腦速度的免費工具。
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=用於重設 Microsoft Edge 瀏覽器的小程式。
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=最好的惡意軟體殺手!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=保護您的電腦免受網路加密貨幣礦工的侵害(免費)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=停止更新 Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=版本
+[StopUpdates10.frmScann.constExecuted]
+Caption=已執行:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=進程未遭封鎖
+[StopUpdates10.frmScann.constPleasewait]
+Caption=請稍候...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=更新服務未遭停用!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=更新服務現在執行中!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=那麼，下一步該怎麼做?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=掃描您電腦上隱藏的惡意軟體
+Hint=使用我們的 UnHackMe 軟體進行免費掃描
+[StopUpdates10.frmOfferMore.Label1]
+Caption=成功! Windows Update 已被封鎖!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=那麼，下一步該怎麼做?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=控制您的啟動程式
+Hint=使用我們免費的 BootRacer 軟體
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=說聲謝謝!
+Hint=您的意見對我們非常重要
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=現在您必須重新啟動程式才能獲得英文界面。
+[StopUpdates10.frmScann.File1]
+Caption=檔案
+[StopUpdates10.frmScann.Exit1]
+Caption=結束
+[StopUpdates10.frmScann.Tools1]
+Caption=工具
+[StopUpdates10.frmScann.Refresh1]
+Caption=重新整理狀態
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Windows 關機
+[StopUpdates10.frmScann.Help1]
+Caption=說明
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=造訪首頁/常見問題集...
+[StopUpdates10.frmScann.Language1]
+Caption=語言
+[StopUpdates10.frmScann.Translate1]
+Caption=翻譯...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=檢查新版本...
+[StopUpdates10.frmScann.Settings1]
+Caption=設定...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=設定
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=僅適用於進階使用者!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=停用 Windows 升級
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=停用 Windows Update
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=停用 Windows Update 服務
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=停用進程:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=確定
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=取消
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=變更這個請自行承擔風險! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=自我更新
+
+[StopUpdates10.frmSettings.cbNewVersionCheck
+Caption=程式啟動時檢查是否有新版本
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=停用
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=停止 Updates Guard
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=啟用 Updates Guard
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=Updates Guard 已停用!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=Updates Guard 已啟用!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Updates Guard 輪詢 Windows update 服務狀態。
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=如果 Windows update 服務將啟動，Guard 會將其停用。
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=Updates Guard 在後台當成服務運作。即使您未登入 Windows，它也可以保護您。
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=重新啟動 Windows
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Updates Guard 使用中
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=停用服務:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=更新保護會在後台自動保護您。 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=Windows Update 封鎖未受保護
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=復原
+Hint=撤消變更
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=建議功能
+
+;255
+[StopUpdates10.frmScann.lblRecommend]
+Caption=建議您:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=暫停更新...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=繼續更新
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=選項...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=更多資訊
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=暫停更新直到
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=您可以暫停正在安裝的更新
+
+[StopUpdates10.frmScann.constDownload]
+Caption=下載
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=更新 Windows Defender 簽章
+
+[StopUpdates10.frmPauseUpdates]
+Caption=暫停更新
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=暫停更新直到:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=暫停功能更新 (主要更新每年 2 次)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=暫停月份更新 (累積品質更新)
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=確定
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=正在更新 Windows Defender 簽章
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=中止
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=檢查記錄
+
+[StopUpdates10.frmDefender.btClose]
+Caption=關閉
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=建議功能
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=停用 EOS 通知
+Hint=封鎖「終止服務」和「終止支援」畫面
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=啟用 EOS 通知
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=更多資訊
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=停用 GWX
+Hint=停用取得 Windows 10 通知和快顯視窗
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=GWX 已停用
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=GWX (取得 Windows 10) 找不到。

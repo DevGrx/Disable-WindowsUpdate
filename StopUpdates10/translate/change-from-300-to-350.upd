@@ -1,0 +1,9 @@
+[StopUpdates10.frmScann.pnlHardBlock]
+Caption=Windows Update - Hard Block:
+[StopUpdates10.frmScann.pnlSoftBlock]
+Caption=Windows Update - Soft Block:
+Hint=Soft Block allows Windows Defender and Store Apps updates.
+[StopUpdates10.frmScann.constFeatureUpdatespauseduntil]
+Caption=Feature updates paused until
+[StopUpdates10.frmScann.constQualityupdatespauseduntil]
+Caption=Quality updates paused until

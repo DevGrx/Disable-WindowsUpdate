@@ -1,0 +1,219 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=French
+Traduit par https://sospc.name
+Copyright=Copyright © 2018 Greatis Software
+Info=Created by TLocalizer
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Statut de Windows Update
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Vérifier nouvelle version
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Aide/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Vérifier le journal...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Freeware  traduit par Christophe d'Sospc.name
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Patientez...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Stop Waiting...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=Mes autres programmes:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Télécharger!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Réactiver Windows Update
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Désactiver les mises à jour
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Actualiser
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Status:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Non trouvé
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Echec ! Erreur d'écriture
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Echec ! Erreur dlors de la suppression
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Ouverture impossible
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Key Erreur lors de la suppression
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Tentative de lancement
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Windows Update n'est pas désactivé
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Windows Update is partiellement bloqué.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Windows Update est désactivé !
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Outil gratuit pour contrôler le temps de démarrage de Windows et le ralentissement de votre PC..
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Programme léger pour réinitialiser Microsoft Edge. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=Le meilleur destructeur de logiciels malveillants !
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Protège votre PC contre le cryptominage (GRATUIT))
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Stop Updates Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Version
+[StopUpdates10.frmScann.constExecuted]
+Caption=Executé:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Processus n'est pas bloqué
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Patientez...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=le service de mise à jour n'est pas désactivé!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Le service de mise à jour fonctionne désormais!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=Quelle est la prochaine étape ?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Recherche de logiciels malveillants 
+Hint=Scanner à l'aide de notre logiciel gratuit UnHackMe
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Opération réussie ! Windows Update est désactivé !
+[StopUpdates10.frmOfferMore.Label2]
+Caption=Et maintenant qu'est-ce que je peux faire d'autre ? :o)
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Contrôlez vos programmes au démarrage.
+Hint=Use our free BootRacer software
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Dire Merci ! ;o)
+Hint=Votre avis est très important pour nous.
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Vous devez redémarrer le programme pour obtenir l'interface en anglais.
+[StopUpdates10.frmScann.File1]
+Caption=Fichier
+[StopUpdates10.frmScann.Exit1]
+Caption=Sortir
+[StopUpdates10.frmScann.Tools1]
+Caption=Outils
+[StopUpdates10.frmScann.Refresh1]
+Caption=Mettre à jour le Status
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Arrêter Windows
+[StopUpdates10.frmScann.Help1]
+Caption=Aide
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Visitez la page de l'Editeur/FAQ...
+[StopUpdates10.frmScann.Language1]
+Caption=Langage
+[StopUpdates10.frmScann.Translate1]
+Caption=Traduire...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Rechercher une nouvelle version...
+[StopUpdates10.frmScann.Settings1]
+Caption=Réglages...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Réglages
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=UNIQUEMENT pour les utilisateurs expérimentés !
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Désactiver la mise à niveau de Windows
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Désactiver Windows Update
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Désactiver le service Windows Update
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Désactiver les processus:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Annuler
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Les modifications sont à vos risques et périls !
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Mise à jour automatique
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Vérifier s'il y a une nouvelle version au démarrage du programme.
+
+
+

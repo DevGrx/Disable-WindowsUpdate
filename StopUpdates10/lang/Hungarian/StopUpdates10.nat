@@ -1,0 +1,486 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=Magyar
+Copyright=Copyright © 2018 Greatis Software
+Info=Created by TLocalizer
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Védelem Állapota
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption= Új Verzió keresése
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Help/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Naplófájl ellenõrzése ...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Freeware  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Várj...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Várj ...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=További alkalmazásaim:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Letöltés !
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Win.Update engedélyezése.
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Windows Update blokkolása!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Újraellenörzés
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Állapot:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Nem található
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Sikertelen! Íráshiba
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Sikertelen! Hiba az eltávolításban
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Nem lehet megnyitni
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Kulcs törlési hiba
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Kísérlet a futtatáshoz
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Windows Frissítés nincs blokkolva.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=A Windows Frissítés részben blokkolva van.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Windows Frissítés blokkolva !
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Ingyenes eszköz ,ami figyeli a Windows indítás idejét .
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Kis program a Microsoft Edge böngészõ visszaállításához.
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=A legjobb kártevõ gyilkos!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Védi a számítógépet a webes kriptográfiai bányászok ellen (FREE)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Stop Windows 10 Frissítések
+[StopUpdates10.frmScann.constVersion]
+Caption=Verzió
+[StopUpdates10.frmScann.constExecuted]
+Caption=Teljesítve:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=A folyamat nem blokkolódik
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Kérlek várj...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Frissítés szolgáltatás nincs letíltva!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Frissítés szolgáltatás most fut !
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=Szóval, mi a következõ lépés?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Rejtett kártékony programok keresése a számítógépen
+Hint=Ingyenes szkennelés az UnHackMe szoftverünkkel
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Sikerült! Windows Frissítés blokkolva!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=Szóval mi a következõ lépés?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=A programok indításának irányítása
+Hint=Használja ingyenes BootRacer szoftverünket
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Köszönöm!
+Hint=Az Ön véleménye nagyon fontos számunkra
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Most újra kell indítania a programot az angol felület eléréséhez.
+[StopUpdates10.frmScann.File1]
+Caption=Fájl
+[StopUpdates10.frmScann.Exit1]
+Caption=Kilépés
+[StopUpdates10.frmScann.Tools1]
+Caption=Eszközök
+[StopUpdates10.frmScann.Refresh1]
+Caption=Állapot frissítése
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=A Windows leállítása
+[StopUpdates10.frmScann.Help1]
+Caption=Segítség
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Honlap meglátogatása/FAQ...
+[StopUpdates10.frmScann.Language1]
+Caption=Nyelv
+[StopUpdates10.frmScann.Translate1]
+Caption=Fordítás...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Új Verzió keresése...
+[StopUpdates10.frmScann.Settings1]
+Caption=Beállítások..
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Beállítások
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=CSAK Haladó Felhasználóknak!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=A Windows Upgrade letiltása
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=A Windows Update letiltása
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=A Windows Frissítés szolgáltatás letiltása
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=A folyamatok letiltása:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Mégse
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=A változtatást a saját felelõsségére teszi!
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Egyéni Frissítés
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Új Verzió keresése a Program Indításakor
+
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Bezárás
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Updates Guard letíltása
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Updates Guard engedélyezése
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=Updates Guard le van tíltva!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=Updates Guard most aktív !
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Updates Guard lekérdezi a Windows Update szolgáltatás állapotát.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=Ha a Windows frissítési szolgáltatás elindul, Guard le fogja tíltani.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=Updates Guard a háttérben mûködik, mint szolgáltatás. Megvédi Önt, még akkor is, ha nem vagy bejelentkezve a Windows rendszerbe.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Windows újraindítása
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Updates Guard most Aktív !
+
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Szolgáltatások letiltása:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=Updates Guard automatikusan megvédi Önt a háttérben.
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=A Windows update blokkolása nem védett
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Visszavonás
+Hint=A Végrehajtott Módosítások Visszavonása
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Ajánlat Önnek:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Frissítések Szüneteltetése...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Frissítések Folytatása
+
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Beállítások...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=További információk
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Frissítés szünetel, eddig:
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=Szüneteltetheti a frissítések telepítését
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Letöltés
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Windows Defender-Aláírások Frissítése
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Frissítések Szüneteltetése
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Szüneteltetheti a frissítéseket, eddig:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Frissítések Szüneteltetése (nagyobb frissítés évente 2-szer)
+
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Havi Frissítések Szüneteltetése (Összesített Minõségi Frissítések)
+
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=Rendben
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=A Windows Defender Aláírásainak Frissítése
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Megszakítás
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Napló Ellenõrzése
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Bezárás
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Javasolj egy funkciót
+
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=Az EOS értesítések letiltása
+Hint=A szolgáltatás befejezése és a támogatási képernyõk vége
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=EOS értesítések engedélyezése
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=További információk
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=A GWX letiltása
+Hint=A Windows 10 frissítés letöltés  és az értesítés elõugró ablakának  tiltása
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=A GWX le van tiltva
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=GWX (Get Widows 10) nem található..
+
+;300
+[StopUpdates10.frmScann.lblDonate]
+
+[StopUpdates10.frmScann.btDonate]
+Caption=Adomány Premiumért
+[StopUpdates10.frmScann.pnlRegister]
+[StopUpdates10.frmScann.lblRegistered]
+[StopUpdates10.frmScann.btRegister]
+Caption=Regisztráció
+[StopUpdates10.frmScann.btRegisteranother]
+Hint=Regisztrálj egy másik személyhez...
+
+[StopUpdates10.frmScann.pnlReg]
+[StopUpdates10.frmScann.GreatisButton1]
+Caption=Bezárás
+[StopUpdates10.frmScann.btCheckRegCode]
+Caption=Regisztráció
+[StopUpdates10.frmScann.gpAffi]
+[StopUpdates10.frmScann.lblYourLicenseKey]
+Caption=Licenckulcsa:
+[StopUpdates10.frmScann.lblStronglyrecommendcopypaste]
+Caption=Javasoljuk, hogy másolja be a kódot a regisztrációs üzenetbe!
+[StopUpdates10.frmScann.gbPasteSerial]
+Caption=Beillesztés a vágólapról
+[StopUpdates10.frmScann.edtKey2]
+[StopUpdates10.frmScann.edtRegCode]
+[StopUpdates10.frmScann.edtLicense]
+
+[StopUpdates10.frmScann.constServicedoesnotexist]
+Caption=Szolgáltatás nem létezik.
+[StopUpdates10.frmScann.constRecommendyou]
+Caption=Javasoljuk
+[StopUpdates10.frmScann.constComputers]
+Caption=Számítógépek
+[StopUpdates10.frmScann.constValiduntil]
+Caption=Érvényesség:
+[StopUpdates10.frmScann.constRegisteredto]
+Caption=Regisztrálva:
+[StopUpdates10.frmScann.constInvalidregistrationkeyorregistrationinformation]
+Caption=Érvénytelen regisztrációs kulcs vagy regisztrációs információ!
+[StopUpdates10.frmScann.constDoyouwanttocompletelycloseStopUpdates10]
+Caption=Szeretné, hogy teljesen bezárja StopUpdates10 vagy minimalizálja azt a tálcán?
+[StopUpdates10.frmScann.constAutoStart]
+Caption=Automatikus Indítás
+[StopUpdates10.frmScann.constManualStart]
+Caption=Kézi Indítás
+[StopUpdates10.frmScann.constDisabled]
+Caption=Tiltva
+[StopUpdates10.frmScann.constProtected]
+Caption=Beállításjegyzék-védett
+[StopUpdates10.frmScann.constUnprotected]
+Caption=Beállításjegyzék-védtelen
+
+[StopUpdates10.frmScann.HidetoSystemTray1]
+Caption=Elrejtés a Rendszertálcába
+
+
+; Settings
+[StopUpdates10.frmSettings.tabProc]
+Caption=Folyamatok Letiltása
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Folyamatok Letiltása:
+[StopUpdates10.frmSettings.tabServ]
+Caption=Szolgáltatások Letiltása
+[StopUpdates10.frmSettings.lblRecommendedServ]
+Caption=Ajánlott Szolgáltatások Letiltása:
+
+[StopUpdates10.frmSettings.lblDisableAdditionalServices]
+Caption=További Szolgáltatások Letiltása:
+[StopUpdates10.frmSettings.lblAtyourrisk]
+Caption=Saját felelõsségére!
+
+[StopUpdates10.frmSettings.lvlCustomServices]
+
+[StopUpdates10.frmSettings.cbDoubleProtectServices]
+Caption=Kettõs Védelem: Védelem a beállításjegyzék engedélyeivel + Védelem az Updates Guard-al
+
+[StopUpdates10.frmSettings.btEdit]
+Caption=Szerkesztés
+
+[StopUpdates10.frmSettings.lblServiceKeyName]
+Caption=Szolgáltatáskulcs Neve:
+[StopUpdates10.frmSettings.edtServName]
+
+[StopUpdates10.frmSettings.btSaveServName]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancelServName]
+Caption=Mégsem
+
+[StopUpdates10.frmSettings.tabPremium]
+Caption=Premium
+
+[StopUpdates10.frmSettings.lblPolling]
+Caption=Lekérdezési idõ a frissítés állapotának ellenõrzéséhez (min):
+
+[StopUpdates10.frmSettings.lblUpdateblocked]
+Caption=- Windows Update blokkolva van
+
+[StopUpdates10.frmSettings.lblUpdateisnotblocked]
+Caption=- Windows Update nincs blokkolva
+
+[StopUpdates10.frmSettings.cbTrayIcon]
+Caption=A Windows Update állapot ikonja a tálcán
+
+[StopUpdates10.frmSettings.edtPollingInterval]
+
+[StopUpdates10.frmSettings.cbWinStartup]
+Caption=Futtatás a Windows indításakor
+
+[StopUpdates10.frmSettings.btApply]
+Caption=Alkalmaz
+
+[StopUpdates10.frmSettings.constServiceKeyName]
+Caption=Szolgáltatáskulcs Neve
+[StopUpdates10.frmSettings.constStatus]
+Caption=Állapot
+
+; Ask
+[StopUpdates10.frmAsk]
+[StopUpdates10.frmAsk.lblQuestion]
+[StopUpdates10.frmAsk.btDisableEOS]
+Caption=Alkalmazás Bezárása
+[StopUpdates10.frmAsk.GreatisButton1]
+Caption=Elrejtés a tálcához
+[StopUpdates10.frmAsk.GreatisButton2]
+Caption=Mégsem

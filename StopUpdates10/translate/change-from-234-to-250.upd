@@ -1,0 +1,10 @@
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Disable Services:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=Updates Guard automatically protects you in the background. 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=Windows update blocking is not protected
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Undo
+Hint=Undo Made Changes

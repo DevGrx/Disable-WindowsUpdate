@@ -1,0 +1,251 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=German
+Copyright=Copyright © 2018 Greatis Software
+Info=Created by TLocalizer
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Schutz-Status
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Nach Updates suchen
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Hilfe/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Log prüfen...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Freeware  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Bitte warten...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Warten beenden...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=Meine anderen Apps:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Download!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Windows Updates wiederherstellen
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Windows Updates blockieren!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Aktualisieren...
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Status:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Nicht gefunden
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Failure! Fehler beim Schreiben
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Failure! Fehler beim Entfernen
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Kann nicht geöffnet werden
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Fehler beim Löschen des Schlüssels
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Versuche Ausführung
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Windows Update ist nicht blockiert.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Windows Update ist teilweise blockiert.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Windows Update ist blockiert!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Kostenloses Tool zur Überwachung der Windows-Startzeit und langsamem PC.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Kleines Programm zum zurücksetzen des Microsoft Edge Browsers. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=Der beste Malware Killer!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Schützt Ihren PC gegen Web-Kryptowährungs-Miner  (KOSTENLOS)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Stop Windows Updates 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Version
+[StopUpdates10.frmScann.constExecuted]
+Caption=Ausgeführt:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Prozess ist nicht blockiert
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Bitte warten...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Update Service ist nicht deaktiviert!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Update Service läuft jetzt!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=So, wie geht es weiter?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Suche nach versteckter Malware auf Ihrem PC
+Hint=Kostenloser Scan mit unserer UnHackMe-Software
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Success! Windows Update wurde blockiert!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=So, wie geht es weiter?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Übernehmen Sie Kontrolle über Ihre Autostart-Programme
+Hint=Benutzen Sie unsere BootRacer-Software
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Danke sagen!
+Hint=Ihre Meinung ist uns sehr wichtig!
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Für die Änderung der Spracheinstellung muss das Programm neu gestartet werden.
+[StopUpdates10.frmScann.File1]
+Caption=Datei
+[StopUpdates10.frmScann.Exit1]
+Caption=Beenden
+[StopUpdates10.frmScann.Tools1]
+Caption=Tools
+[StopUpdates10.frmScann.Refresh1]
+Caption=Status aktualisieren
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Windows herunterfahren
+[StopUpdates10.frmScann.Help1]
+Caption=Hilfe
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Webseite/FAQ besuchen...
+[StopUpdates10.frmScann.Language1]
+Caption=Sprache
+[StopUpdates10.frmScann.Translate1]
+Caption=Übersetzung...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Neue Version suchen...
+[StopUpdates10.frmScann.Settings1]
+Caption=Einstellungen...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Einstellungen
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=NUR für Power-User!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Windows Upgrade deaktivieren
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Windows Updates deaktivieren
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Windows Update Service ausschalten
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Prozesse beenden:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Abbrechen
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Änderung auf eigenes Risiko! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Programmaktualisierung
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Beim Start nach neuer Version suchen
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Schlieen
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Deaktiviere Updates-Guard
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Aktiviere Updates-Guard
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=Updates-Guard ist deaktiviert!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=Updates-Guard ist aktiv!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Updates-Guard prft den Status des Windows-Update-Dienst.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=Wenn der Windows-Update-Dienst started, wird Guard ihn beenden.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption=Updates-Guard luft als Dienst im Hintergrund. Er schtzt daher auch, wenn Sie nicht in Windows angemeldet sind.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Windows neu starten
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Updates-Guard ist aktiv
+
+
+

@@ -1,0 +1,267 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=ÚÑÈí -arabic jordan
+Copyright=Copyright © 2018 Greatis Software
+Info=MFM Dawdeh
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=ÍÇáå ÇáÍãÇíÉ
+Font.Charset=178
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=ÇáÊÍŞŞ ãä æÌæÏ ÅÕÏÇÑ ÌÏíÏ
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=ÊÚáíãÇÊ/ÇÓÆáå æÃÌæÈå
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Check Log...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  ãÌÇäíå  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=ÇáÑÌÇÁ ÇáÇäÊÙÇÑ...
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=ÇáÊæŞİ Úä ÇáÇäÊÙÇÑ...
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=ÊØÈíŞÇÊí:
+Font.Charset=178
+
+
+[StopUpdates10.frmScann.grid]
+Hint=ÊÍãíá!
+Font.Charset=178
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=ÇÓÊÚÇÏå ÊÍÏíËÇÊ æäÏæÒ
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=ÅíŞÇİ ÊÍÏíËÇÊ æíäÏæÒ!
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=ÇäÚÇÔ
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.panImages]
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.panSteps]
+Font.Charset=178
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=ÍÇáå:
+[StopUpdates10.frmScann.constNotfound]
+Caption=ÛíÑ ãæÌæÏ
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=İÔá! ÎØÇ İí ÇáßÊÇÈÉ
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=İÔá! ÎØÇ İí ÇáÇÒÇáå
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=áÇ íãßä İÊÍÉ
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=ÎØÇ İí ÍĞİ ÇáãİÊÇÍ
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=ãÍÇæáÉ ÊÔÛíá
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=áã íÊã ÍÙÑ ÊÍÏíË ÇáæäÏæÒ
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Êã ÍÙÑ ÊÍÏíË æäÏæÒ ÌÒÆíÇ.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Êã ÍÙÑ ÊÍÏíË æäÏæÒ
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Free tool for monitoring your Windows boot time and your PC slow down.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Small program for resetting the Microsoft Edge browser. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=The Best Malware Killer!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Protects your PC against web cryptocurrency miners  (FREE)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Stop Updates Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Version
+[StopUpdates10.frmScann.constExecuted]
+Caption=Executed:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Process is not blocked
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Please, wait...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Updating Service is not disabled!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Update Service is running now!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=ÅĞÇ ¡ ãÇ ÇáÎØæÉ ÇáÊÇáíÉ ¿
+Font.Charset=178
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=ÇáãÓÍ ÇáÖæÆí áÈÑÇãÌ ÖÇÑå Îİíå Úáì ÍÇÓæÈß
+Hint=ÇáãÓÍ ÇáÍÑ ÈÇÓÊÎÏÇã ÈÑäÇãÌäÇ UnHackMe
+Font.Charset=178
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Êã ÍÙÑ ÊÍÏíË æäÏæÒ
+Font.Charset=178
+[StopUpdates10.frmOfferMore.Label2]
+Caption=ÅĞÇ ¡ ãÇ ÇáÎØæÉ ÇáÊÇáíÉ ¿
+Font.Charset=178
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=ÇáÊÍßã İí ÈÑÇãÌ ÈÏÁ ÇáÊÔÛíá
+Hint=ÇÓÊÎÏÇã ÇáÈÑãÌíÇÊ ÇáÍÑÉ BootRacer
+Font.Charset=178
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Şá ÔßÑÇ áß
+Hint=ÑÇíß ãåã ÌÏÇ ÈÇáäÓÈÉ áäÇ
+Font.Charset=178
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=ÇáÂä áÏíß áÃÚÇÏå ÊÔÛíá ÇáÈÑäÇãÌ ááÍÕæá Úáí æÇÌåå ÇááÛÉ ÇáÚÑÈíÉ
+Font.Charset=178
+[StopUpdates10.frmScann.File1]
+Caption=ãáİ
+Font.Charset=178
+[StopUpdates10.frmScann.Exit1]
+Caption=ÎÑæÌ
+Font.Charset=178
+[StopUpdates10.frmScann.Tools1]
+Caption=ÇáÇÏæÇÊ
+Font.Charset=178
+[StopUpdates10.frmScann.Refresh1]
+Caption=ÍÇáå ÇáÊÍÏíË
+Font.Charset=178
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=ÅíŞÇİ ÊÔÛíá ÇáæäÏæÒ
+Font.Charset=178
+[StopUpdates10.frmScann.Help1]
+Caption=ÇáÊÚáíãÇÊ
+Font.Charset=178
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=ÒíÇÑÉ ÇáÕİÍÉ ÇáÑÆíÓíÉ/ÇÓÆáå æÃÌæÈå...
+[StopUpdates10.frmScann.Language1]
+Caption=ÇááÛÉ
+[StopUpdates10.frmScann.Translate1]
+Caption=ÇáÊÑÌãÉ...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=ÇáÊÍŞŞ ãä æÌæÏ ÅÕÏÇÑ ÌÏíÏ...
+Font.Charset=178
+[StopUpdates10.frmScann.Settings1]
+Caption=ÇáÇÚÏÇÏÇÊ...
+Font.Charset=178
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=ÇáÇÚÏÇÏÇÊ
+Font.Charset=178
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=İŞØ áãÓÊÎÏãí ÇáØÇŞÉ!
+Font.Charset=178
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Font.Charset=178
+Caption=ÊÚØíá ÊÑŞíå æäÏæÒ
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Font.Charset=178
+Caption=ÊÚØíá ÊÍÏíË æäÏæÒ
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=ÊÚØíá ÎÏãå ÊÍÏíË æäÏæÒ
+Font.Charset=178
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=ÊÚØíá ÇáÚãáíÇÊ:
+Font.Charset=178
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=ãæÇİŞ
+Font.Charset=178
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=ÇáÛÇÁ ÇáÇãÑ
+Font.Charset=178
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=ÊÛííÑ åĞÇ Úáì ãÓÄæáíÊß ÇáÎÇÕÉ! 
+Font.Charset=178
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=ÇáÊÍÏíË ÇáĞÇÊí
+Font.Charset=178
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=ÇáÊÍŞŞ ãä ÇáÅÕÏÇÑ ÇáÌÏíÏ ÚäÏ ÈÏÁ ÊÔÛíá ÇáÈÑäÇãÌ
+Font.Charset=178
+
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=ÊÚØíá ÇáÎÏãÇÊ:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=ÊÍÏíËÇÊ ÇáÍÇÑÓ íÍãíß ÊáŞÇÆíÇ İí ÇáÎáİíÉ. 
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=ÍÙÑ ÊÍÏíË æäÏæÒ ÛíÑ ÇáãÍãí
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=ÊÑÇÌÚ
+Hint=ÊÑÇÌÚ Úä ÇáÊÛííÑÇÊ ÇáÊí Êã ÇÌÑÇÄåÇ

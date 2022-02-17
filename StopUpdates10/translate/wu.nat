@@ -1,0 +1,267 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0
+Copyright=Copyright © 2000 Greatis Software
+
+[WebUpdate.@Info]
+Language=English
+Copyright=Copyright © 2000 Greatis Software
+Info=Created by TLocalizer
+
+[WebUpdate.Fmain]
+Caption=Check for updates Greatis Software...
+
+
+
+[WebUpdate.Fmain.Panel1]
+
+
+
+[WebUpdate.Fmain.Label1]
+
+
+[WebUpdate.Fmain.Panel2]
+
+
+
+[WebUpdate.Fmain.Button3]
+Caption=Connection Settings
+
+
+
+[WebUpdate.Fmain.btExit]
+Caption=Exit
+
+
+
+[WebUpdate.Fmain.SB1]
+
+
+
+[WebUpdate.Fmain.HttpCli1]
+Accept=image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+Agent=Mozilla/3.0 (compatible)
+ContentTypePost=application/x-www-form-urlencoded
+Proxy=intsrv02
+ProxyPort=80
+URL=http://www.greatis.com
+
+[WebUpdate.Fmain.constAttemptingtoconnectto]
+Caption=Attempting to connect to
+
+[WebUpdate.Fmain.constError]
+Caption=Error
+
+[WebUpdate.Fmain.constConfigure]
+Caption=Configure...
+
+[WebUpdate.Fmain.constCheckconfigurationplease]
+Caption=Check configuration, please
+
+[WebUpdate.Fmain.constStop]
+Caption=Stop
+
+[WebUpdate.Fmain.constCouldntwritedatatotheregistry]
+Caption=Couldn't write data to the registry. May be it's not enough rights.
+
+[WebUpdate.Fmain.constConfigurationchecking]
+Caption=Configuration checking...
+
+[WebUpdate.Fmain.constPleasewait]
+Caption=Please, wait...
+
+[WebUpdate.Fmain.constKbread]
+Caption=Kb read
+
+[WebUpdate.Fmain.constConnectionrefused]
+Caption=Connection refused!
+
+[WebUpdate.Fmain.constConnectionabortedbyuser]
+Caption=Connection aborted by user!
+
+[WebUpdate.Fmain.constHostnotfound]
+Caption=Host not found!
+
+[WebUpdate.Fmain.constConnectionerror]
+Caption=Connection error!
+
+[WebUpdate.Fmain.constServiceistemporarilyunavalableTryagainlaterplease]
+Caption=Service is temporarily unavalable. Try again later, please.
+
+[WebUpdate.Fmain.constDownloadingerrorTryagainplease]
+Caption=Downloading error. Try again, please.
+
+[WebUpdate.Fmain.constYouhavethelatestversionof]
+Caption=You have the latest version of
+
+[WebUpdate.Fmain.constWouldyouliketovisitGreatisSoftwareWebSite]
+Caption=Would you like to visit Greatis Software Web Site?
+
+[WebUpdate.Fmain.constAppName]
+Caption=Greatis Web Update
+
+[WebUpdate.Fmain.constAnewerversion]
+Caption=A newer version
+
+[WebUpdate.Fmain.constwasfound]
+Caption=was found!
+
+[WebUpdate.Fmain.constCantopenthelink]
+Caption=Can't open the link!
+
+[WebUpdate.Fmain.constYouarenotconnectedtoInternetnowPressOKwhenyouwillbeready]
+Caption=You are not connected to Internet now. Press OK when you will be ready.
+
+[WebUpdate.HttpTestForm]
+Caption=Configuration
+
+
+
+[WebUpdate.HttpTestForm.Label4]
+Caption=There is no connection to Internet.
+
+
+
+[WebUpdate.HttpTestForm.btCancel]
+Caption=Cancel
+
+
+
+[WebUpdate.HttpTestForm.btOK]
+Caption=OK
+
+
+
+[WebUpdate.HttpTestForm.rgConnectType]
+Caption=Internet Settings
+Items.0=Using dial-up modem internet connections
+Items.1=Using LAN Internet connection
+Items.2=I am always connected to Internet
+Items.3=Local Path (directory on the hard drive or in the network)
+
+[WebUpdate.HttpTestForm.grpLan]
+Caption=LAN Settings
+
+
+
+[WebUpdate.HttpTestForm.Label2]
+Caption=Proxy Server
+
+
+
+[WebUpdate.HttpTestForm.Label1]
+Caption=Proxy Username
+
+
+
+[WebUpdate.HttpTestForm.Label6]
+Caption=Proxy Port
+
+
+
+[WebUpdate.HttpTestForm.Label3]
+Caption=Proxy Password
+
+
+
+[WebUpdate.HttpTestForm.ProxyHostEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyUserEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPortEdit]
+
+
+
+[WebUpdate.HttpTestForm.ProxyPassEdit]
+
+
+
+[WebUpdate.Fdown]
+Caption=Check For New Versions
+
+
+
+[WebUpdate.Fdown.Label1]
+
+
+[WebUpdate.Fdown.Panel1]
+
+
+
+[WebUpdate.Fdown.Button1]
+Caption=Download
+
+
+
+[WebUpdate.Fdown.Button2]
+Caption=Cancel
+
+
+
+[WebUpdate.Fdown.Memo1]
+
+
+[WebUpdate.frmMenu]
+Caption=What do you want to update?
+
+
+
+[WebUpdate.frmMenu.btAppDatabase]
+Caption=Greatis Application Database
+
+
+
+[WebUpdate.frmMenu.btRegRunGold]
+Caption=RegRun Security Suite Gold Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunPro]
+Caption=RegRun Security Suite Pro Edition
+
+
+
+[WebUpdate.frmMenu.btRegRunStd]
+Caption=RegRun Security Suite Standard
+
+
+
+[WebUpdate.frmMenu.btDeskKeeper]
+Caption=DesktopKeeper
+
+
+
+[WebUpdate.Fmain.constUnzipitand]
+Caption=Unzip it and launch an executable file.
+
+[WebUpdate.HttpTestForm.edtLocal]
+[WebUpdate.Fmain.constTheupdatehasbeendownloadedsuccessfully]
+Caption=The update has been downloaded successfully. 
+[WebUpdate.Fmain.constNowitwillbeinstalledtoyourApplicationDatabase]
+Caption=Now it will be installed. Please, wait.
+[WebUpdate.Fmain.constRunitnow]
+Caption=Run it now?
+[WebUpdate.Fmain.constUnzipitand]
+Caption=Unzip it and launch an executable file.
+;650
+[WebUpdate.Fmain.constCouldnotfoundfile]
+Caption=Could not found file
+[WebUpdate.Fmain.constNotauthorised]
+Caption=Not authorised
+[WebUpdate.Fmain.constInternalServerError]
+Caption=Internal Server Error
+[WebUpdate.Fmain.constDownloading]
+Caption=Downloading
+[WebUpdate.Fmain.constSuccessfullyupdated]
+Caption=Successfully updated!
+[WebUpdate.Fmain.constSuccessfullydownloaded]
+Caption=Successfully downloaded
+
+[WebUpdate.HttpTestForm.btDisableUpdate]
+Caption=Disable Auto Update
+[WebUpdate.HttpTestForm.opnLocalDir]
+Filter=Update Configuration Files|*.ini
